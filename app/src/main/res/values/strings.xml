@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Kamabi</string>
+
+    <string name="k1">م</string>
+    <string name="k2">خ</string>
+    <string name="k3">فا</string>
+    <string name="k4">ف</string>
+    <string name="k5">نفا</string>
+    <string name="k6">نف</string>
+    <string name="k7">مف</string>
+    <string name="k8">مع</string>
+    <string name="k9">مل</string>
+    <string name="k10">مط</string>
+
+    <string name="k11">ظز</string>
+    <string name="k12">ظم</string>
+    <string name="k13">ن</string>
+    <string name="k14">ص</string>
+    <string name="k15">با</string>
+    <string name="k16">بد</string>
+    <string name="k17">حا</string>
+    <string name="k18">ش</string>
+    <string name="k19">ج</string>
+    <string name="k20">س</string>
+
+    <string name="k21">ع</string>
+    <string name="k22">غ</string>
+    <string name="k23">ل</string>
+    <string name="k24">ما</string>
+    <string name="k25">مظ</string>
+    <string name="k26">تم</string>
+    <string name="k27">مع</string>
+    <string name="k28">ج</string>
+    <string name="k29">نف</string>
+    <string name="k30">نه</string>
+
+    <string name="k31">خ م</string>
+    <string name="k32">ب</string>
+    <string name="k33">؞</string>
+    <string name="k34">ى</string>
+    <string name="k35">سف</string>
+    <string name="k36">سما</string>
+    <string name="k37">مص</string>
+    <string name="k38">ص</string>
+    <string name="k39">شا</string>
+    <string name="k40">ش</string>
+
+    <string name="k41">نا</string>
+    <string name="k42">د</string>
+    <string name="k43">اي</string>
+    <string name="k44">!</string>
+    <string name="k45">م</string>
+    <string name="k46">شخ</string>
+    <string name="k47">با</string>
+    <string name="k48">اه</string>
+    <string name="k49">الخ</string>
+    <string name="k50">ص م</string>
+
+
+</resources>
