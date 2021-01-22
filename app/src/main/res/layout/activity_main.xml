@@ -41,12 +41,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/menu1"
+                android:layout_marginRight="5dp"
                 android:layout_weight="1"/>
             <ImageView
                 android:id="@+id/menu2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/menu2"
+                android:layout_marginLeft="5dp"
                 android:layout_weight="1"/>
         </LinearLayout>
         <LinearLayout
@@ -58,12 +60,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/menu3"
+                android:layout_marginRight="5dp"
                 android:layout_weight="1"/>
             <ImageView
                 android:id="@+id/menu4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:src="@drawable/menu4"
+                android:layout_marginLeft="5dp"
                 android:layout_weight="1"/>
         </LinearLayout>
 

@@ -9,15 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Kamabi">
-        <activity android:name=".SplahActivity"></activity>
-        <activity android:name=".OnboardingActivity">
+        <activity android:name=".KuisActivity"></activity>
+        <activity android:name=".PenerapanActivity" />
+        <activity android:name=".KeyboardActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".KitabActivity" />
+        <activity android:name=".SplahActivity" />
+        <activity android:name=".OnboardingActivity">
+
+        </activity>
+        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>

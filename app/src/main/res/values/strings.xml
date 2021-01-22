@@ -1,5 +1,18 @@
 <resources>
     <string name="app_name">KamabiApps</string>
+    <string name="opening_keyboard">
+        Assalamualaikum Wr.Wb
+
+        \n\nHallo pengguna Kamabi Apps...
+        \nBerikut merupakan keyboard otomatis yang memudahkan teman - teman
+        dalam mencari penjelasan huruf di bawah yaa, tekan hurufnya dan Kamabi Apps akan menampilkan penjelasannya.
+        \nSemoga bermanfaat
+
+    </string>
+    <string name="title_keyboard">Penjelasan</string>
+
+
+    <string name="kamabi">Kitab Kaifiyyatil Ma\'ani Bil Ikhtishor</string>
 
     <string name="k1">م</string>
     <string name="k2">خ</string>
@@ -55,7 +68,758 @@
     <string name="k48">اه</string>
     <string name="k49">الخ</string>
     <string name="k50">ص م</string>
-    <string name="kamabi">Kitab Kaifiyyatil Ma\'ani Bil Ikhtishor</string>
+<!--END-->
+
+    <string name="kk1">
+        <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimah atau kata yang berkedudukan sebagai Mubtada’, pemberian tanda huruf  م  pada  saat memaknai kitab diletakkan pada atas kalimah,  kalimat yang berkedudukan mubtada’ diberi makna utawi yang dalam bahasa indonesia artinya adapun  sedangkan mubtada’ sendiri yaitu :
+        <br><br>
+        المبتدأ اسم مرفوع في أول الجملة
+        <br><br>
+        Mubtada’ yaitu isim yang dibaca rofa’ pada awal kalimat. Dalam bahasa arab setiap awal kalimah atau kata itu dinamakan mubtada’ .
+        Contoh :
+        <br><br>
+        زَيْدٌ قَائِمٌ <sup> م</sup>
+
+        <br><br>
+        Maksdunya zaidun orang yang sedang berdiri, kata Zaid dalam jumlah diatas berkedudukan sebagai mubtada yang perlu keterangan  atau pelengkap
+
+        ]]>
+    </string>
+    <string name="kk2">
+        <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Khobar, pemeberian tanda huruf   خ  pada saat memaknai kitab diletakkan pada atas kalima. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “iku atau adalah”  Sedangkan khobar sendiri yaitu :
+        <br><br>
+
+        الحبر اسم مرفوع يكون مع المبتدإ جملة مفيدة
+        <br><br>
+        Khobar yaitu isim yang dibaca rofa’ yang membentuk sebuah kalimat yang berfaedah (dapat dipahami) dengan  mubtada’. Setiap ada mubtada’ diawal kalimah(kata) selanjutnya pasti selalu diikuti oleh khobar.
+        Contoh :
+        <br><br>
+
+         بَكْرٌ
+        <sup> خ</sup>
+        مُدَرِّسٌ
+
+        <br><br>
+        Maksdunya بَكْر apabila berdiri sendiri tanpa adanya pelengkap maka kalimah tersebut belum bisa dipahami maksudnya apa dan belum bisa disebut jumlah yang berfaedah maka perlunya diberi pelengkap مُدَرِّسٌ menjadi contoh seperti diatas sehingga dapat dipahami bahwa bakar adalah seorang guru. Kalimah بَكْر sendiri berperan sebagai mubtada
+
+        ]]>
+    </string>
+    <string name="kk3">
+         <![CDATA[
+         Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Fa’il Aql, pemeberian tanda huruf  فا pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “sopo atau siapa” Sedangkan Fa’il sendiri yaitu :
+        <br><br>
+
+        الفاعل اسم مرفوع تقدمه فعل, و دل على الذي فعل الفعل
+        <br><br>
+        Fa’il yaitu isim yang dibaca rofa’ yang menunjukkan makna seseorang yang mengerjakan suatu pekerjaan atau Fi’il. Setiap ada Fi’il harus selalu ada Fa’il. Sedangkan Fa’il Aql berarti menunjukkan Pelaku(subjek)  yang berakal.
+         Contoh  :
+        <br><br>
+
+         قَالَ
+        <sup> فا</sup>
+         اَحْمَدُ
+
+        <br><br>
+        Maksudnya kalimah قَالَ berupa kata pekerjaan atau fi’il belum bisa dipahami apabila tidak ada pelengkapnya “berkata” lalu siapa yang berkata, oleh karena itu diberi kalimah اَحْمَدُ sebagai Fail atau pelaku dari sebuah perbuatan berkata tadi. Ahmad sendiri nama orang, maka sudah dapat dipastikan bahwa orang memiliki akal maka menggunakan huruf atau tanda فا
+
+        ]]>
+    </string>
+    <string name="kk4">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Fa’il Ghoiruhu, pemeberian tanda huruf  ف pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “opo” dalam bahasa jawa. Sedangkan Fa’il sendiri yaitu :
+        <br><br>
+
+        الفاعل اسم مرفوع تقدمه فعل, و دل على الذي فعل الفعل
+        <br><br>
+        Fa’il yaitu isim yang dibaca rofa’ yang menunjukkan makna seseorang yang mengerjakan suatu pekerjaan atau Fi’il. Setiap ada Fi’il harus selalu ada Fa’il. Sedangkan Fa’il Aql berarti menunjukkan Pelaku(subjek)  yang tidak berakal.
+         Contoh  :
+        <br><br>
+
+          طَارَ
+         <sup> ف </sup>
+        الطَيْرُ
+
+        <br><br>
+        Maksudnya kalimah طَارَ berupa kata pekerjaan atau fi’il belum bisa dipahami apabila tidak ada pelengkapnya “terbang” lalu siapa yang terbang, oleh karena itu diberi kalimah الطَيْرُyang bertindak sebagai Fail atau pelaku dari sebuah perbuatan terbang tadi. الطَيْرُ artinya burung, maka sudah dapat dipastikan bahwa burung tidak memiliki akal maka menggunakan huruf atau tanda ف
+
+        ]]>
+    </string>
+    <string name="kk5">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Naibul Fa’il, pemeberian tanda huruf  نفا  pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “sopo atau siapa”.Sedangkan Naibul Fa’il sendiri yaitu :
+        <br><br>
+
+        ينوب مفعول به عن فاعل # فيما له كنيل خير نائل
+        <br><br>
+        Artinya maf’ul bih menggantikan fail didalam semua hukumnya. Seperti contoh
+        نيل خير نائل
+        Dengan demikian Naibul Fa’il yaitu isim yang dirofa’kan secara lafadh atau mahallan, menggantikan dan menempati tempatnya fail yang dibuang dan fi’il bina’nya majhul. Baik isim yang menggantikan itu asalnya berupa maf’ul bih atau serupanya semisal dzhorof, mashdar, jer-majrur dll. Untuk huruf نفا  menunjukkan  untuk Naibul Fail yang berakal.
+         Contoh  :
+        <br><br>
+          <sup> نفا</sup>
+        خلقالانسان ضعيفا
+
+        ]]>
+    </string>
+    <string name="kk6">
+         <![CDATA[
+         Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Naibul Fa’il, pemeberian tanda huruf  نف  pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “opo” dalam bahasa jawa. Sedangkan Naibul Fa’il sendiri yaitu :
+        <br><br>
+
+        ينوب مفعول به عن فاعل # فيما له كنيل خير نائل
+        <br><br>
+        Artinya maf’ul bih menggantikan fail didalam semua hukumnya. Seperti contoh
+        نيل خير نائل
+        <br><br>
+        Dengan demikian Naibul Fa’il yaitu isim yang dirofa’kan secara lafadh atau mahallan, menggantikan dan menempati tempatnya fail yang dibuang dan fi’il bina’nya majhul. Baik isim yang menggantikan itu asalnya berupa maf’ul bih atau serupanya semisal dzhorof, mashdar, jer-majrur dll. Untuk huruf نف  menunjukkan  untuk Naibul Fail yang tidak berakal.
+         Contoh  :
+        <br><br>
+          ركب
+         <sup> نف</sup>
+        الفرس للجهاد
+
+        ]]>
+    </string>
+    <string name="kk7">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Maf’ul Bih, pemeberian tanda huruf  مف  pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “ing atau kepada” Sedangkan Maf’ul Bih sendiri yaitu :
+        <br><br>
+
+        المفعول به يعني الاسم المنصوب, الذي يقع به الفعل
+        <br><br>
+        Maf’ul bih yaitu isim yang dibaca nasab yang dikenakan padanya suatu perbuatan.
+         Contoh  :
+        <br><br>
+
+         ضَرَبَ زَيْدٌ
+         <sup> مف</sup>
+        عَمْرًا
+
+        ]]>
+    </string>
+    <string name="kk8">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Maf’ul Ma’ah, pemeberian tanda huruf  مع  pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “sertane atau beserta” Sedangkan Maf’ul Ma’ah sendiri yaitu :
+        <br><br>
+
+        المفعول معه يعني الاسم المنصوب, الذي يذكر لبيان من فُعِلَ معه الفعل
+        <br><br>
+        Maf’ul Ma’ah yaitu isim yang dibaca nasab yang disebut untuk menjelaskan sesuatu yang bersamanya dilakukan suatu perbuatan.
+         Contoh  :
+        <br><br>
+         مَا اَنْتَ
+         <sup> مع </sup>
+        وَزَيْدًا
+
+        ]]>
+    </string>
+    <string name="kk9">
+         <![CDATA[
+         Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Maf’ul Liajlih, pemeberian tanda huruf  مل pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “ kerono arahe” dalam bahasa jawa Sedangkan Maf’ul Liajlih sendiri yaitu :
+        <br><br>
+
+        المفعول لاجله يعني الاسم المنصوب, الذي يذكر بيانا لسباب وقوع الفعل
+        <br><br>
+        Maf’ul Ma’ah yaitu isim yang dibaca nasab yang disebut untuk menjelaskan sebab-sebab terjadinya suatu perbuatan.
+        Contoh :
+          <br><br>
+               قُمْتُ
+        <sup> مل </sup>
+        اِجْلَالاً لِزَيْدٍ
+
+        ]]>
+    </string>
+    <string name="kk10">
+         <![CDATA[
+       Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Maf’ul Mutlaq, pemeberian tanda huruf  مط pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “kelawan atau dengan” Sedangkan Maf’ul Mutlaq sendiri yaitu :
+        <br><br>
+        المفعول المظلق  يعني اسم منصوب من الفظ الفعل (مصدر) يذكر معه لتو كيده او لبيان نوعه او عدده
+        <br><br>
+        Maf’ul mutlak adalah isim yang dibaca mansub yang berasal dari lafadznya fi’il (mashdar) yang disebutkan untuk menguatkan fi’il atau karena menjelaskan macamnya fi’il dan bilangannya fi’il.
+
+        ]]>
+    </string>
+
+    <string name="kk11">
+         <![CDATA[
+     Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Dzaraf Zaman, pemeberian tanda huruf  ظز pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “ingdalem atau di” Sedangkan Dzaraf zaman sendiri yaitu :
+    <br><br>
+    ظرف الزمان يعني اسم الزمان المنصوب بتقدير في
+    <br><br>
+    Dzaraf zaman yaitu  isim zaman (waktu) yang dinasabkan dengan memperkirakan makna fi (pada/dalam).
+    Contoh :
+    <br><br>
+         وُلِدَ النَّبِيُّ ص م
+    <sup> ظز </sup>
+    يَوْمَ الإِثْنَيْن
+
+        ]]>
+    </string>
+    <string name="kk12">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Dzaraf Makan, pemeberian tanda huruf  ظم pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “ingdalem atau di” Sedangkan Dzaraf makan sendiri yaitu :
+        <br><br>
+        ظرف المكان يعني اسم المكان المنصوب بتقدير في
+        <br><br>
+        Dzaraf makan yaitu isim makan (tempat) yang di baca nasab dengan memperkirakan makna fi (pada/dalam)
+        Contoh :
+        <br><br>
+             يَلْعَبُ زَيْدٌ
+        <sup> ظم</sup>
+        اَمَامَ المَسْجِدِ
+
+        ]]>
+    </string>
+    <string name="kk13">
+         <![CDATA[
+         Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Na’at, pemeberian tanda huruf  ن pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “kang atau yang” Sedangkan Na’at sendiri yaitu :
+        <br><br>
+
+        النعت تابع للمنعوت في رفعه ونصبه وخفضه وتعريفه وتنكيره
+        <br><br>
+        Na’at atau sifat yaitu lafaz yang mengikuti kepada lafaz yang diikutinya, baik dalm hal rofa’, nasab, khofad (jar), ma’rifat maupun nakirohnya.
+        Contoh :
+        <br><br>
+             حَضَرَ اَحْمَدُ
+        <sup> ن</sup>
+        الشُّجَاعَ
+
+        ]]>
+    </string>
+    <string name="kk14">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Shilah, pemeberian tanda huruf ص pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan  “kang atau yang” Sedangkan Shilah sendiri yaitu jumlah yang disebut setelah isim maushul untuk menyempernukan maknanya. Isim maushul selalu membutuhkan shilah,’aid dan mahal dalam i’rab.
+        Contoh :
+        <br><br>
+             اِنَّ الَّذِيْنَ
+        <sup> ص</sup>
+        اَمَنُوْا...
+
+        ]]>
+    </string>
+    <string name="kk15">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Athaf Bayan, pemeberian tanda huruf  با pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “nyatane atau nyatanya” Sedangkan Athaf Bayan sendiri yaitu :
+        <br><br>
+        فذو البيان تابع شبه الصفة ٭ حقيقة القصدبه منكشفة
+        <br><br>
+        Athaf bayan yaitu tabi’ yang menyerupai sifat, dengan melaluinya (athaf bayan), makna yang dapat terungkap.
+        Contoh :
+        <br><br>
+
+             مِنَ السَّمَآءِ
+        <sup> با </sup>
+        مِنْ مَآءٍ
+
+        ]]>
+    </string>
+    <string name="kk16">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Badal, pemeberian tanda huruf  با pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “rupane atau rupanya”  Sedangkan Badal sendiri yaitu :
+         <br><br>
+        التابع المقصود بالحكم بلا واسطة بينه وبين متبوعه
+        <br><br> Tabi’ (lafadz yang mengikuti ) yang dimaksud dengan hukum tanpa memakai perantara antara ia dengan matbu’nya.
+        Contoh :
+        <br><br>
+             ضَرَبْتُ اَنْفَ النَّاقَةِ
+         <sup> بد</sup>
+        زَيْدًا
+
+        ]]>
+    </string>
+    <string name="kk17">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Hal, pemeberian tanda huruf  حا pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “khale” dalam bahasa jawa Sedangkan Hal sendiri yaitu :
+        <br><br>
+
+        الحال وصف فضلة منتصب * مفهم في حال كفردا أذهب
+        <br><br>
+        Hal adalah washf (sifat) yang fadhlah (lebihan) dan dibaca nasab serta memberi keterangan keadaan.
+        Contoh :
+        <br><br>
+             جَاءَ اَحْمَدُ
+        <sup> حا </sup>
+        رَاكِبًا
+
+        ]]>
+    </string>
+    <string name="kk18">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Jumlah Syarthiyah, pemeberian tanda huruf  ش pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan  “lamun atau  jika” .Jumlah Syarthiyah yaitu susunan kalimat yang menggunakan adat syarat sebagai penghubung antara 2 jumlah atau kalimat. Jumlah yang pertama berperan sebagai syarat sedangkan jumlah kedua sebagai jawab.
+        Contoh :
+        <br><br>
+
+          <sup> ش</sup>
+        اِنْ قَامَ اَحْمَدُ قَامَ بَكْرٌ
+        <br><br>
+        Maksudnya apabila ahmad berdiri maka bakrun berdiri. اِنْ sebagai huruf syarat jumlah pertama sebagai syarat sedangkan قَامَ بَكْرٌ sebagai jumlah jawabiyah.
+
+        ]]>
+    </string>
+    <string name="kk19">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Jumlah Syarthiyah (Jawab), pemeberian tanda huruf  ج pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “mongko atau maka” Jumlah Syarthiyah yaitu susunan kalimat yang menggunakan adat syarat sebagai penghubung antara 2 jumlah atau kalimat. Jumlah yang pertama berperan sebagai syarat sedangkan jumlah kedua sebagai jawab.
+        Contoh :
+         <br><br>
+          اِنْ جَاءَ عُمَرُ
+         <sup> ج</sup>
+        جَاءَ اَحْمَدُ
+        <br><br>
+        Maksudnya apabila umar datang maka datanglah ahmad اِنْ جَاءَ عُمَرُ sebagai syarat sedangkan jawabnya yaitu جَاءَ اَحْمَدُ
+
+        ]]>
+    </string>
+    <string name="kk20">
+         <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Sababiyah, pemeberian tanda huruf  س pada saat memaknai kitab diletakkan pada atas. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “sebab”  Sababiyah menunjukkan makna sebab akibat dari jumlah atau kalimat tersebut.
+        Contoh :
+        <br><br>
+          كُلُّ نَفْسٍ
+        <sup> س</sup>
+        بِمَا كَسَبَتْ
+        <br><br>
+         “tiap-tiap jiwa diberi balasan dengan apa yang diusahakannya” menunjukkan sebab akibat seperti contoh tersebut.
+
+        ]]>
+    </string>
+
+    <string name="kk21">
+        <![CDATA[
+       Huruf ini digunakan untuk menandai sebuah kalimah bahwa didalmnya terdapar huruf Ta’lil , pemeberian tanda huruf  ع pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “kerono atau karena” Ta’lil yaitu salah satu huruf ma’any yakni huruf yang memiliki makna ketika disandingkan dengan kata lain. Huruf ta’lil sendiri berfungsi menjelaskan alasan terjadinya sesuatu. Huruf ta’lil ada 4 yautu كي, الام \ لِ, في
+        Contoh :
+         <br><br>
+          ...
+        <sup> ع</sup>
+        لِاَنَّهُمْ يُؤْمِنُوْنَ
+        <br><br>
+        Maksdunya (karena) mereka orang-orang mukmin. Huruf ta’lil dalam contoh diatas لِ huruf menjadi alasan dari jumlah diatas.
+
+        ]]>
+    </string>
+    <string name="kk22">
+        <![CDATA[
+       Huruf ini digunakan untuk menandai sebuah kalimah bahwa didalmnya terdapar huruf ghoyah , pemeberian tanda huruf   غpada saat memaknai kitab diletakkan pada atas kalimah. Ghoyah menurut lughot artinya ujung. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “Senajan atau walaupun” Maksud ghoyah dalam i’rob bahasa Arab diartikan sebagai bagian dari maksud sebuah kalam, namun dikhawatirkan dipahami oleh pembaca atau pendengar tidak masuk dalam maksud kalam tersebut. Karena itu perlu disebut bagian itu.
+        Contoh :
+        <br><br>
+
+          اُحِبُّ العِلمَ
+        <sup> غ</sup>
+        وَلَوْ صَعْبًا
+
+        <br><br>
+         ( saya suka ilmu (belajar) walaupun sulit) <br>
+        Dalam jumlah diatas ditambahkan kalimah صَعْبًا yang artinya sulit karena dikhawatirkan sipembaca Ilmu (belajar) itu tidak masuk dalam sulit, karena kalimah sebelumnya menyebutkan bahwa  “saya suka ilmu(belajar) karena biasanya hal-hal yang disukai itu menyenangkan dan tidak sulit.
+
+        ]]>
+    </string>
+    <string name="kk23">
+        <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimah bahwa didalmnya terdapar huruf Lam Lil milki/ Tamalluk (atau kepunyaan) , pemeberian tanda huruf  ل pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “keduwe atau kepunyaan” Lam Lil Milki terletak diantara dua benda dimana yang kedua memiliki yang pertama secara hakiki
+        Contoh :
+        <br><br>
+
+         الكِتَابُ
+        <sup> ل</sup>
+        لزَيْدِ
+
+        <br><br>
+         “Kitab itu (milik) Zaid. Huruf ل dalam jumlah tersebut memberikan penegasan makna bahwa kitab itu milik Zaid.
+
+        ]]>
+    </string>
+    <string name="kk24">
+        <![CDATA[
+       Huruf ini digunakan untuk menandai sebuah kalimah bahwa makna dalam jumlah atau kalimat tersebut merupakan sebuah pengkhususan tertuju pada satu orang atau sesuatu, pemeberian tanda huruf  ما pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “maring atau kepada”
+        Contoh :
+        <br><br>
+
+         اَ عْطَيْتُ الكِتَابَ
+        <sup> ما </sup>
+        لِزَيْدِ
+
+        <br><br>
+         “saya memberikan kitab kepada zaid” maksudnya menunjukkan makna pengkhususan memberikan kitab tertuju pada satu orang yaitu zaid.
+
+        ]]>
+    </string>
+    <string name="kk25">
+        <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimah yang memiliki peran sebagai mashdar Dhorfiyyah , pemeberian tanda huruf  مظ pada saat memaknai kitab diletakkan pada atas kalimah. Mashdar Dhorfiyyah yaitu mashdar yang menunjukkan dhorof baik tempat maupun waktu.
+        Contoh :
+        <br><br>
+
+         قَامَ اَحْمَدُ
+        <sup> مظ </sup>
+        مَالَمْ يَكُنْ عَمْرٌ قَائِمًا
+
+        <br><br>
+         “ ahmad berdiri selama umar belum berdiri” kalimat tersebut menunjukkan mashdar dhorfiyah yaitu waktu ahmad berdiri adalah ketika umar belum berdiri.
+
+        ]]>
+    </string>
+    <string name="kk26">
+        <![CDATA[
+      Huruf ini digunakan untuk menandai sebuah kalimah tersebut berkedudukan sebagai Tamyiz , pemeberian tanda huruf  تم pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “apane atau apanya” Tamyiz sendiri yaitu : <br><br>
+
+    هو الاسم المنصوب المفسر لما انبهم من الذوات. ولا يكن الا نكرة ولا يكون الا بعد تمام الكلام.
+    <br><br>
+    Tamyiz ialah Isim yang dibaca Nasab yang berfungsi menjelaskan zat yang samar, tamyiz tidak akan terjadi, kecuali harus dengan isim nakiroh dan tidak akan terjadi pula, kecuali sesudah kalam tamam atau sempurna (seperti halnya hal).
+    Contoh :
+    <br><br>
+
+     طَابَ زَيْدٌ
+    <sup> تم </sup>نَفْسًا
+
+    <br><br>
+    artinya Zaid Memang Baik Hati <sup> تم </sup>نَفْسًا  ini menekankan penjelasan bahwa zaid memang baik hati.
+
+        ]]>
+    </string>
+    <string name="kk27">
+        <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimah berkedudukan sebagai mufadhdhil ‘alaih yang terletak pada isim tafdhil , pemeberian tanda huruf  مع pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “tinimbang” dalam bahasa jawa. Isim tafdhil sendiri yaitu
+        <br><br>
+
+        اسم التفضيل هو ما دل على أن شئين اشترك في صفة وازد أحدهما على الآخر في تلك الصفة
+        <br><br>
+        Isim tafdhil adalah isim yang menjelaskan bahwa dua benda memiliki satu sifat yang sama dan salah satunya menunjukkan lebih dari salah satu sifat tadi.
+        Contoh :
+        <br><br>
+
+         الرَّجُلُ خيْرٌ
+        <sup> مع</sup>
+        مِنَ المَرْءَاةِ
+
+        <br><br>
+         “Laki-Laki Lebih baik dari pada perempuan” <br>
+        Kata خيْرٌ ini adalah isim tafdhil yang artinya lebih baik. Isim yang terletak sebelum kata خيْرٌ yakni الرَّجُلُ disebut mufadhal sedangkan kata yang terletak setelahnya yakni مِنَ المَرْءَاة disebut sebagai mufadhal ‘alaih.
+
+        ]]>
+    </string>
+    <string name="kk28">
+        <![CDATA[
+         Huruf ini digunakan untuk menandai sebuah kalimah yang maknanya bersifat jamak atau lebih dari satu , pemeberian tanda huruf  مع pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan piro-piro atau beberapa.
+        Contoh :
+        <br><br>
+
+         رَأَيْتُ
+         <sub> ج</sub>
+        المُسْلِمِيْنَ
+
+        <br><br>
+         “aku melihat beberapa orang muslim” kata المُسْلِمِيْنَ berbentuk jamak yang maknya beberapa atau lebih dari satu.
+
+        ]]>
+    </string>
+    <string name="kk29">
+        <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimah bahwa didalamnya terdapat huruf nafi , pemeberian tanda huruf نف  pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “ora atau tidak” huruf nafi sendiri apabila melekat pada suatu kalimah maka kemudian kalimah tersebut berubah makna menjadi tidak atau belum.
+        Contoh :
+        <br><br>
+
+         <sub> نف</sub>
+        مَا جَاءَ اَحْمَدُ
+
+        <br><br>
+         “ahmad tidak datang” huruf مَا dalam contoh tersebut adalah ma nafi yang menjelaskan bahwa ahmad tidak datang
+
+        ]]>
+    </string>
+    <string name="kk30">
+        <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimah didalamnya terdapat kata nahi , maksudnya makna dari jumlah tersebut adalah sebuah larangan. pemeberian tanda huruf نه pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “ojo atau jangan”.
+        Contoh :
+        <br><br>
+
+         وَلاَ
+        <sub> نهى</sub>
+        تَقُل لَهُمَا اُفًّ
+        <br><br>
+         “dan janganlah katakana ah pada keduanya” huruf لاَ biasanya diartikan tidak tapi dalam kontek jumlah atau kalimat diatas huruf لاَ tersebut dimaknakan untuk nahi atau larangan.
+
+        ]]>
+    </string>
+
+    <string name="kk31">
+          <![CDATA[
+       Huruf ini digunakan untuk menandai sebuah kalimah berkedudukan sebagai khobar mutlaq. Khobar mutlaq yaitu khobr yang berisikan hal-hal yang ma’lum atau sudah diketahui secara umum. pemeberian tanda huruf خ م pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “iku maujud” dalam bahasa jawa.
+        Contoh :
+        <br><br>
+
+         فَلَا اِثْمَ
+        <sub> خ م </sub>
+        عَلَيْهِ
+
+        <br><br>
+         “ maka tidak ada dosa sama sekali baginya” khobar dalam jumlah tersebut sudah diketahui kata عَلَيْهِ dalam jumlah tersebut bukanlah khobar, khobar dalam jumlah tersebut tersimpan.
+
+        ]]>
+    </string>
+    <string name="kk32">
+          <![CDATA[
+      Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai  Bayan yang ghoiru aql atau tidak berakal, pemeberian tanda huruf ب pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “barang ” Sedangkan Athaf Bayan sendiri yaitu :
+        <br><br>
+
+        فذو البيان تابع شبه الصفة ٭ حقيقة القصدبه منكشفة
+        <br><br>
+        bayan yaitu tabi’ yang menyerupai sifat, dengan melaluinya (athaf bayan), makna yang dapat terungkap. Sedangkang untuk huruf ب berarti bayan yang tidak berakal.
+        Contoh :
+        <br><br>
+
+         ...
+        <sub> ب</sub>
+        مَا بَيْنَ السَّمَاءِ
+
+        <br><br>
+        huruf مَا dalam kalimah tersebut ketika memaknai kitab diartikan barang. Berarti tidak berakal.
+
+        ]]>
+    </string>
+    <string name="kk33">
+          <![CDATA[
+      Tanda  ini digunakan untuk menandai sebuah kalimat yang berbentuk dlomir sya’n, pemeberian tanda tanda  pada ؞ saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan  ini pada saat memaknai kitab diartikan dengan “kelawan atau ono ” dalam bahasa jawa.  Dlomir sya’ni yaitu dlomir di awal kalimat yang merujuk pada lafadz tertentu dan kesamarannya diperjelas oleh lafadz sesudahnya. Contoh :
+        <br><br>
+
+         فَاعْلَمْ اَنَّهُ لاَاِلهَ اِلاَّالله
+
+        <br><br>
+         “maka ketahuilah” dlomir هُ pada kalimah اَنَّهُ adalah dlomir sya’ni merujuk pada lafadz tertentu  dan kesamarannya diperjelas kalimah sesudahnya yaitu لاَاِلهَ اِلاَّالله.
+
+        ]]>
+    </string>
+    <string name="kk34">
+          <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimah bahwa didalamnya terdapat huruf Lam Ibtida’ , pemeberian tanda huruf ى pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “yekti atau tentu” huruf Lam ibtida’ itu lam yangmasuk pada awal kalimat.
+        Contoh :
+        <br><br>
+
+         ظَنَنْتُ
+        <sub> ى</sub>
+        لَزَيْدٌ قَائِمٌ
+
+        <br><br>
+         “saya kira zaid orang yang berdiri” ketika isimnya ظَنَنْتُ kemudian ada lam ibtida’ maka lafadz ظَنَنْتُ tidak beramal.
+
+
+        ]]>
+    </string>
+    <string name="kk35">
+          <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimah bahwa didalamnya terdapat huruf La’alla taukid , pemeberian tanda huruf سف pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “saktemene atau supaya” huruf La’alla ibtida’ yaitu la’alla yang apabila melekat pada suatu kalimah kemudian menguatkan atau menekankan makna dari kalimah itu sendiri.
+        Contoh :
+        <br><br>
+
+          <sub> سف </sub>
+        لَعَلَّهُمْ يَرْجِعُوْنَ
+
+        ]]>
+    </string>
+    <string name="kk36">
+          <![CDATA[
+      Huruf ini digunakan untuk menandai sebuah kalimah tersebut merupakan jumlah syartiyah , pemeberian tanda huruf سما pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “semangsane atau ketika”. Jumlah syartiah yaitu
+        Contoh :
+        <br><br>
+
+         فَلَمَّا
+        <sub> سما</sub>
+        اَتَاهُمْ
+
+        <br><br>
+        Maksudnya syartiyah disini yaitu kalimah tersebut sebagai syarat untuk kalimah selanjutnya yang kemudian menjadi jawabannya.
+
+        ]]>
+    </string>
+    <string name="kk37">
+          <![CDATA[
+     Huruf ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut berbentuk mashdar , pemeberian tanda huruf مص  pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “olehe” dalam bahasa jawa. Mashdar yaitu :
+    <br><br>
+
+    المصدر هو الاسم المنصوب الذي يجيء ثالثا في تصريف الفعل نحو : ضَرَبَ-يَضْرِبُ-ضَرْبًا
+
+    <br><br>
+    Mashdar ialah isim yang dibaca nasab yang dalam tasrifan jatuh pada urutan ketiga, seperti ضَرَبَ-يَضْرِبُ-ضَرْبًا  atau lebih mudahnya mashdar adalah kata kerja yang dibendakan.
+    Contoh :
+    <br><br>
+
+     وَاَنْ
+    <sub> مص</sub>
+    تَصُوْمُوْا خَيْرٌلَّكُمْ
+
+    <br><br>
+     “dan puasamu itu lebih baik bagimu” kalimah تَصُوْمُوْا ini adalah mashdar dari kata kerja berpuasa atau صام- يصوم- صوما  karena berbentuk mashdar kemudian maknanya menjadi “puasamu”.
+
+        ]]>
+    </string>
+    <string name="kk38">
+          <![CDATA[
+         Huruf ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna yang mengarah pada mushonnef atau pengarang kitab , pemeberian tanda huruf ص  pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “mushonnef” dalam bahasa jawa.
+        Contoh :
+        <br><br>
+
+         قَلَ
+        <sub> ص</sub>
+        يَصْلُحُ البَيْعُ..
+
+        <br><br>
+        dalam contoh disamping apabila dalam membaca kitab maka dibaca dengan demikian “قَلَ = wes ngendiko (sudah berkata) sopo mushonnef (pengarang kitab yang berbicara)” kemudian dilanjukan kalimah selanjutnya.
+
+        ]]>
+    </string>
+    <string name="kk39">
+          <![CDATA[
+     Huruf ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna yang mengarah pada seorang pengarang syair , pemeberian tanda huruf شا pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “syair” dalam bahasa jawa.
+    Contoh :
+    <br><br>
+
+      كَقَوْلِهِ
+     <sub> شا</sub>
+    بالبَاعِثِ
+
+        ]]>
+    </string>
+    <string name="kk40">
+          <![CDATA[
+        Huruf ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna yang mengarah pada syarah atau yang meluaskan matan (kitab yang ditulis secara singkat) , pemeberian tanda huruf ش pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “syarah”.
+        Contoh : <br><br>
+
+          قَوْلُهُ
+         <sub> ش</sub>
+        اللَفْظُ اَيِالصَّوْتُ المشتمل
+
+        ]]>
+    </string>
+
+    <string name="kk41">
+          <![CDATA[
+    <H></H>uruf ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna yang mengarah pada pengarang sebuah nadhom (pantun atau syair yang biasanya dalam dunia pesantren digunakan untuk sarana belajar mulai dari ilmu nahwu seperti nadhom ‘imrithi dan alfiyyah serta ilmu-ilmu lainnya), pemeberian tanda huruf نا pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan nama pengarang dari nadhom sendiri atau nama nadhom itu.
+        Contoh :
+        <br><br>
+          قَالَ
+        <sub> نا</sub>
+        اَبْدَاءُ بِاسْمِ اللّه...
+
+        ]]>
+    </string>
+    <string name="kk42">
+          <![CDATA[
+         Huruf ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna yang berarti mendoakan, pemeberian tanda huruf د pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “mugo-mugo atau semoga”.
+        Contoh :
+        <br><br>
+
+          قَالَ أَبُوْبَكْر
+         <sub> د </sub>
+        رَضِيَ الله عَنْهُ
+
+        <br><br>
+        contoh disamping apabila dibaca dengan tradisi pesantren salaf dijawa maka demikian “قَالَ wes ngendiko (sudah berkata) sopo أَبُوْبَكْر Abu bakar (abu bakar yang telah berkata) رَضِيَ mugo-mugo paring ridho, sinten الله Allah (semoga Allah Memberi ridho) عَنْهُ maring Abu Bakar (kepada Abu Bakar)
+
+        ]]>
+    </string>
+    <string name="kk43">
+          <![CDATA[
+      Huruf ini digunakan untuk menandai sebuah kalimat yang berkedudukan sebagai Athaf Bayan, pemeberian tanda huruf  اي pada saat memaknai kitab diletakkan pada atas kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “tegese atau artinya” Sedangkan Athaf Bayan sendiri yaitu :
+        <br><br>
+
+        فذو البيان تابع شبه الصفة ٭ حقيقة القصدبه منكشفة
+        <br><br>
+        Athaf bayan yaitu tabi’ yang menyerupai sifat, dengan melaluinya (athaf bayan), makna yang dapat terungkap.
+        Contoh :
+        <br><br>
+         اَقْسَمَ بِاللهِ اَبُوْ حَفْصٍ
+         <sub> اي</sub>
+        عُمَرُ
+
+        <br><br>
+         “aku bersumpah demi Allah Abu khofdhin (umar)
+
+        ]]>
+    </string>
+    <string name="kk44">
+          <![CDATA[
+       Tanda  ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna Allah, pemeberian tanda tanda ! pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “Allah”.
+        Contoh :
+        <br><br>
+
+         اَنَّهُ
+        <sub>! </sub>
+         يَغْفِرُ الذُّنُوِبَ
+
+        <br><br>
+        dlomir هُ pada kalimah اَنَّهُ merujuk pada Lafadz Allah.
+
+        ]]>
+    </string>
+    <string name="kk45">
+          <![CDATA[
+         Tanda  ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna Nabi Muhammad , pemeberian tanda tanda  م pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “Nabi Muhammad”.
+        Contoh :
+        <br><br>
+
+         وَعَلَى الِهِ
+        <sub> م</sub>
+         وَصَحْبِهِ
+        <sub> م </sub>
+ وَسَلَّم
+
+        ]]>
+    </string>
+    <string name="kk46">
+          <![CDATA[
+      Tanda  ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna Syakhsun , pemeberian tanda tanda  شخ  pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “Syakhsun”.
+        Contoh :
+        <br><br>
+         قَالَ شَخْصٌ لإبْنِهِ
+        <sub> شخ </sub>
+
+        ]]>
+    </string>
+    <string name="kk47">
+          <![CDATA[
+        Tanda  ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna Nisbah , pemeberian tanda tanda با pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “Bongso” dalam bahasa Jawa.
+        Contoh :
+        <br><br>
+
+         قَالَ ابنُ حَجَر
+        <sub> با</sub>
+        الشَافِعِي
+
+        <br><br>
+        contoh disamping ketika dibaca dengan tradisi membaca kitab kuning maka demikian “قَالَ  wes ngendiko (sudah berkata) sopo ابنُ حَجَر Ibnu Hajar (Ibnu Hajar yang telah berkata) باالشَافِعِي kang bongso syafi’i (ibnu hajar yang merupakan penganut madzhab Syafi’i.
+
+        ]]>
+    </string>
+    <string name="kk48">
+          <![CDATA[
+        Tanda  ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna Intahi sudah selesai , pemeberian tanda tanda اه pada saat memaknai kitab diletakkan bersama dengan kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “Wes rampung” dalam bahasa Jawa.
+        Contoh :
+        <br><br>
+
+         اه. مَا قَالَهُ الشَّافِعِي
+
+        ]]>
+    </string>
+    <string name="kk49">
+          <![CDATA[
+        Tanda  ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna Ila Akhirihi (sampai akhir) , pemeberian tanda tanda  الخ pada saat memaknai kitab diletakkan bersama dengan kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan “hingga akhir” dalam bahasa Jawa.
+        Contoh :
+        <br><br>
+
+         السلام عليكم الخ...
+
+
+        ]]>
+    </string>
+    <string name="kk50">
+          <![CDATA[
+        Tanda  ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna  صلى الله عليه وسلم, pemeberian tanda tanda  الخ pada saat memaknai kitab diletakkan bersama dengan kalimah. dalam bahasa Jawa.
+        Contoh :
+        <br><br>
+
+          : قال النبي ص م النكاح...
+        ]]>
+    </string>
 
 
 </resources>
