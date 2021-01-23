@@ -12,14 +12,16 @@
         android:layout_width="match_parent"
         app:cardCornerRadius="10dp"
         android:layout_height="80dp"
-        android:layout_margin="20dp">
+        android:layout_margin="15dp"
+        app:cardElevation="3dp"
+        app:cardUseCompatPadding="true">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/kamabi"
             android:gravity="center"
-            android:padding="20dp"
-            android:textSize="20dp"
+            android:padding="15dp"
+            android:textSize="18dp"
             android:textStyle="bold"
             android:textColor="@color/purple_700"/>
     </androidx.cardview.widget.CardView>
@@ -30,7 +32,7 @@
         android:layout_below="@+id/recycler_view"
         android:background="@drawable/bg_home"
         android:orientation="vertical"
-        android:padding="20dp">
+        android:padding="15dp">
 
         <LinearLayout
             android:layout_width="match_parent"
