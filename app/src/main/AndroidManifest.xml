@@ -4,14 +4,19 @@
 
     <application
         android:allowBackup="true"
+        android:hardwareAccelerated="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:largeHeap="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Kamabi">
-        <activity android:name=".KuisActivity"></activity>
+        <activity android:name=".OpeningQuizActivity"></activity>
+        <activity android:name=".KuisActivity" />
         <activity android:name=".PenerapanActivity" />
-        <activity android:name=".KeyboardActivity">
+        <activity
+            android:name=".KeyboardActivity"
+            android:label="Kitab Asli">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,9 +25,7 @@
         </activity>
         <activity android:name=".KitabActivity" />
         <activity android:name=".SplahActivity" />
-        <activity android:name=".OnboardingActivity">
-
-        </activity>
+        <activity android:name=".OnboardingActivity"></activity>
         <activity android:name=".MainActivity" />
     </application>
 

@@ -68,7 +68,7 @@
     <string name="k48">اه</string>
     <string name="k49">الخ</string>
     <string name="k50">ص م</string>
-<!--END-->
+    <!--END-->
 
     <string name="kk1">
         <![CDATA[
@@ -820,6 +820,7 @@
           : قال النبي ص م النكاح...
         ]]>
     </string>
+    <string name="ayo_ikutan_kuisnya">Ayo Ikutan Kuisnya !!!</string>
 
 
 </resources>
