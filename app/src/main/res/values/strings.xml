@@ -70,6 +70,8 @@
     <string name="k50">ص م</string>
     <!--END-->
 
+
+
     <string name="kk1">
         <![CDATA[
         Huruf ini digunakan untuk menandai sebuah kalimah atau kata yang berkedudukan sebagai Mubtada’, pemberian tanda huruf  م  pada  saat memaknai kitab diletakkan pada atas kalimah,  kalimat yang berkedudukan mubtada’ diberi makna utawi yang dalam bahasa indonesia artinya adapun  sedangkan mubtada’ sendiri yaitu :
@@ -693,7 +695,7 @@
 
     <string name="kk41">
           <![CDATA[
-    <H></H>uruf ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna yang mengarah pada pengarang sebuah nadhom (pantun atau syair yang biasanya dalam dunia pesantren digunakan untuk sarana belajar mulai dari ilmu nahwu seperti nadhom ‘imrithi dan alfiyyah serta ilmu-ilmu lainnya), pemeberian tanda huruf نا pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan nama pengarang dari nadhom sendiri atau nama nadhom itu.
+        Huruf ini digunakan untuk menandai sebuah kalimah bahwa kalimah tersebut memiliki makna yang mengarah pada pengarang sebuah nadhom (pantun atau syair yang biasanya dalam dunia pesantren digunakan untuk sarana belajar mulai dari ilmu nahwu seperti nadhom ‘imrithi dan alfiyyah serta ilmu-ilmu lainnya), pemeberian tanda huruf نا pada saat memaknai kitab diletakkan pada bawah kalimah. Pemberian tanda dengan huruf ini pada saat memaknai kitab diartikan dengan nama pengarang dari nadhom sendiri atau nama nadhom itu.
         Contoh :
         <br><br>
           قَالَ
@@ -821,6 +823,2103 @@
         ]]>
     </string>
     <string name="ayo_ikutan_kuisnya">Ayo Ikutan Kuisnya !!!</string>
+
+
+
+    <string name="aa1a">
+        Merupakan khobar yang beri’rob rofa’ karena khobar selalu ber’irob rofa’, alamat rofa’nya yaitu dlomah sebab isim Mufrod. Setiap ada khobar selalu ada mubtada’, mubtada’nya dibuang   (هَذا ) karena sudah maklum maka dalam membacanya
+        “ فَصْلٌ اَىْ هَذَا فَصْلٌ  utawi iki iku ono Fasl suwiji (bab menerangkan)”
+    </string>
+    <string name="aa1b">
+        Merupakan Dzorof  Zaman Mubham karena maknanya tidak terikat atau menunjukan waktu yang tidak ditentukan. Jumlah diatas merupakan jer majrur karena kemasukan huruf  jer berupa فِيْ. Maka membacanya
+         <sup> ظز</sup>
+        فِيْ مَاهِيَةِ الْعِلْمِ وَالْفِقْهِ وَفَضْلِهِ “
+        ingdalem nerangaken kahanane ilmu lan nerangaken ilmu fiqh lan utamane ilmu fiqih (Bab yang menerangkan keadaan ilmu, ilmu fiqih serta keutamaan dari ilmu fiqih)”
+    </string>
+
+<!--    2-->
+    <string name="aa2b">
+        Lafadz
+         <sup> فا</sup>
+        رَسُوْلُ اللّهِ
+        merupakan fail atau pelaku dari perbuatan berupa قَالَ yang artinya berkata (mengucap). Fail selalu beri’rob rofa’ alamat rofa’nya yaitu dlomah. Maka membacanya قَالَ wes ngendikan sinten (sudah berkata siapa..)
+         <sup> فا</sup>
+        رَسُوْلُ اللّهِ .ص.م
+        Rosulullah SAW.
+
+    </string>
+    <string name="aa2d">
+        Merupakan Mubtada’ yang beri’rob rofa’ alamat rofa’nya yaitu dlomah. Jumlah tersebut berbentuk susunan Idhofah  yang terdiri dari mudlof dan mudlof  ‘ilaih.  طَلَبُ sebagai mudhof   dan  الْعِلْمِ  sebagai Mudhof  ‘ilaih yang selalu beri’rob jer. Maka membacanya
+        <sup> م </sup>
+        طَلَبُ الْعِلْمِ
+        utawi ngurih ilmu  (adapun mencari ilmu).
+    </string>
+    <string name="aa2e">
+        Merupakan Khobar dari kalimah
+         <sup> م </sup>
+        طَلَبُ الْعِلْمِ.
+        Khobar selalu ber’irob rofa’ dan alamat i’robnya yaitu dlomah. Maka membacanya “ iku
+         <sup> خ</sup>
+        فَرِيْضَة
+        ferdhu ( yaitu wajib)”.
+    </string>
+    <string name="aa2g">
+        Kalimah tersebut bukan maf’ul mutlak huruf بِ  didalamnya merupakan huruf jer namun maknanya sama untuk memperkuat. Maka cara membacanya بِاَنَّهُ “kelawan setuhune kelakuan (sesungguhnya)”
+    </string>
+    <string name="aa2h">
+        Merupakan Khobar dari kalimah sebelumnya yaitu بِاَنَّه atau khobarnya انّ. Beri’rob rofa’, alamat rofa’nya yaitu dlomah. Maka cara membacanya “ Iku
+         <sup> خ</sup>
+        لَا يُفْتَرَضٌ
+        ora diferduake (tidak diwajibkan)”
+    </string>
+
+<!--    3-->
+    <string name="aa3b">
+        Merupakan Fail dari انّ. Berr’rob rofa’ alamat rofa’nya yaitu dlomah. Maka cara membacanya “opo
+         <sup> ف</sup>
+        طَلَبٌ
+        nuprih (mencari)”
+    </string>
+    <string name="aa3d">
+        Merupakan Fail dari انّ. Berr’rob rofa’ alamat rofa’nya yaitu dlomah. Maka cara membacanya “opo
+         <sup> ف</sup>
+        طَلَبٌ
+        nuprih (mencari)”
+    </string>
+    <string name="aa3f">
+        Merupakan Shifat. Shifat dari isim isyaroh ما  yang berada pada kalimah sebelumnya. Beri’rob rofa dengan alamat rofa’nya dlomah karena berbentuk fi’il mudlori’. Maka cara membacanya
+        “<sup> ص</sup>
+        يُقَالُ
+        kang den ucapake opo ما ( seperti halnya keterangan yang sudah disebut)”
+    </string>
+
+<!--    4-->
+    <string name="aa4a">
+        Merupakan Mubtada’ yang beri’rob rofa’ alamat rofa’nya yaitu dlomah. Jumlah tersebut berbentuk susunan Idhofah  yang terdiri dari mudlof dan mudlof  ‘ilaih.  اَفْضَلُ sebagai mudhof   dan  الْعِلْمِ  sebagai Mudhof  ‘ilaih yang selalu beri’rob jer. Maka membacanya
+         “<sup> م</sup>
+        اَفْضَلُ الْعِلْمِ
+        utawi luwih utamane ilmu (adapun lebih utama-utamanya ilmu)”
+    </string>
+    <string name="aa4b">
+        Merupakan Khobar dari kalimah
+         <sup> م</sup>
+        اَفْضَلُ الْعِلْمِ
+        . Khobar selalu ber’irob rofa’ dan alamat i’robnya yaitu dlomah. Maka membacanya “ iku
+        <sup> خ</sup>
+        عِلْمُ الْحَالِ
+        ilmu tingkah kang arep dilakoni ( yaitu ilmu yang akan dilakukan (seperti sholat dll))”.
+    </string>
+    <string name="aa4d">
+        Merupakan Mubtada’ yang beri’rob rofa’ alamat rofa’nya yaitu dlomah. Jumlah tersebut berbentuk susunan Idhofah  yang terdiri dari mudlof dan mudlof  ‘ilaih.  اَفْضَلُ sebagai mudhof   dan  الْعِلْمِ  sebagai Mudhof  ‘ilaih yang selalu beri’rob jer. Maka membacanya
+        “<sup> م</sup>
+        اَفْضَلُ الْعِلْمِ
+        utawi luwih utamane ilmu (adapun lebih utama-utamanya ilmu)”
+    </string>
+    <string name="aa4e">
+        Merupakan Khobar dari kalimah
+         <sup> م</sup>
+        اَفْضَلُ الْعِلْمِ
+        . Khobar selalu ber’irob rofa’ dan alamat i’robnya yaitu dlomah. Maka membacanya “ iku
+         <sup> خ</sup>
+        حِفْظُ الْحَالِ
+        ngerekso tingkah laku ( yaitu menjaga tingkah laku)”.
+    </string>
+    <string name="aa4g">
+        Merupakan fail dari lafadz sebelumnya yaitu وَيُفْتَرَضُ عَلَى الْمُسْلِمِ beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ opo
+         <sup> ف</sup>
+        طَلَبُ عِلْمِ
+        nyuprih ilmu (mencari ilmu)”
+    </string>
+
+
+<!--    5-->
+    <string name="aa5a">
+        Merupakan Shifat dari isim isyaroh ما  yang berada pada kalimah sebelumnya. Beri’rob rofa dengan alamat rofa’nya dlomah karena berbentuk fi’il mudlori’. Maka cara membacanya
+         مَا
+        <sup> ص</sup>
+        يَقَعُ
+        “kang tumibo opo  ما (yang  ditujukan)”
+
+    </string>
+    <string name="aa5b">
+        Menujukkan makna tamalluk atau kepunyaan. Maka cara membacanya “
+         <sup> ل</sup>
+        لَهُ
+        keduwe Muslim (Untuk Muslim)”
+
+    </string>
+    <string name="aa5c">
+       Merupakan Dzorof  Zaman Mubham karena maknanya tidak terikat atau menunjukan waktu yang tidak ditentukan. Jumlah diatas merupakan jer majrur karena kemasukan huruf  jer berupa فِيْ. Maka cara membacanya
+          <sup> ظز</sup>
+        فِيْ حَالِهِ
+        ing dalem tingkahe wong islam (dalam keadaan orang islam)”
+
+    </string>
+    <string name="aa5d">
+      Merupakan Dzorof  Zaman Mubham karena maknanya tidak terikat atau menunjukan waktu yang tidak ditentukan. Jumlah diatas merupakan jer majrur karena kemasukan huruf  jer berupa فِيْ, sehingga kalimah tersebut ber’irob jer dengan alamat jernya kasroh. Maka cara membacanya
+      <sup> ظز</sup>
+    فِيْ اَىِّ حَالٍ
+    ingdalem endi-endi tingkah (dalam keadaan apapun)”
+
+    </string>
+    <string name="aa5e">
+       Merupakan amil nawasikh ialah amil yang merusak susunan mubtada’ dan khobar. Maka cara membacanya yaitu “ كَانَ kang ono sopo muslim”
+    </string>
+    <string name="aa5f">
+        Sebagai khobarnya كَانَ selain sebagai khobarnya كَانَ dia juga sebagai jawab dari lafadh sebelumnya. Kalimah tersebut beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “iku
+         <sup> خ ج</sup>
+        فَاِنَّهُ
+        mongko setuhune kelakuan (maka sesungguhnya)
+
+    </string>
+    <string name="aa5g">
+       Merupakan khobarnya اِنَّ kalimah sebelumnya, yang beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        لَا بُدَّ
+        wajib (wajib)”
+
+    </string>
+    <string name="aa5h">
+      Menujukkan makna tamalluk atau kepunyaan. Kalimah tersebut bersambung dengan dlomir ﻪ yang merujuk pada kalimah مُسْلِمٍ Maka cara membacanya “
+         <sup> ل</sup>
+        لَهُ
+        keduwe Muslim (Untuk Muslim)”
+
+    </string>
+    <string name="aa5i">
+       Merupakan fail dari lafadz sebelumnya yaitu
+         <sup> خ </sup>
+        لَا بُدَّ
+        <sup> ل</sup>
+        لَهُ
+        kalimah tersebut beri’rob jerk arena masuknya amil jer berupa مِنَ dengan alamat jernya yaitu kasroh. Maka cara membacanya “ opo
+         <sup> ف</sup>
+        مِنَ الصَّلَاة
+        saking sholat (sholat)”
+
+    </string>
+    <string name="aa5j">
+        Merupakan fa’ tafri’ yang kedudukannya sebagai “maka” , dalam konteks tersebut percabangan hukum (misalnya karena bagi kita wajib mempelajari ilmu-ilmu yang berkaitan dengan sholat, maka kita juga wajib mempelajari ilmu yang kiranya sudah mencakup fardu-fardunya sholat). Kalimah tersebut ber’irob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ج</sup>
+        فَيُفْتَرَضُ
+        mongko den ferdhuaken (maka diwajibkan)”
+
+    </string>
+
+
+<!--    6-->
+    <string name="aa6a">
+        Merupakan fail dari lafadz
+         <sup> ف</sup>
+        مِنَ الصَّلَاة
+        , fail beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ opo
+         <sup> ف</sup>
+        عِلْمُ
+        ngaweruhi مَا ing barang”
+
+    </string>
+    <string name="aa6b">
+        Merupakan Shifat dari isim isyaroh ما  yang berada pada kalimah sebelumnya. Beri’rob rofa dengan alamat rofa’nya dlomah karena berbentuk fi’il mudlori’. Maka cara membacanya
+        <sup> ص</sup>
+        يَقَعُ
+        “kang tumibo opo  ما (yang  ditujukan)”
+
+    </string>
+    <string name="aa6c">
+        Menujukkan makna tamalluk atau kepunyaan. Kalimah tersebut bersambung dengan dlomir ﻪ yang merujuk pada kalimah مُسْلِمٍ Maka cara membacanya “
+         <sup> ل</sup>
+        لَهُ
+        keduwe Muslim (Untuk Muslim)”
+
+    </string>
+    <string name="aa6d">
+        Merupakan Dzorof  Zaman Mubham karena maknanya tidak terikat atau menunjukan waktu yang tidak ditentukan. Jumlah diatas merupakan jer majrur karena kemasukan huruf  jer berupa فِيْ, sehingga kalimah tersebut ber’irob jer dengan alamat jernya kasroh. Maka cara membacanya
+          <sup> ظز</sup>
+        فِيْ صَلَاتِهِ
+        ingdalem sholate muslim (dalam solatnya orang islam)”
+
+    </string>
+    <string name="aa6e">
+        Kalimah tersebut bukan maf’ul mutlak huruf بِ  didalamnya merupakan huruf jer namun maknanya sama untuk memperkuat. Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya
+         <sup> مط</sup>
+        بِقَدْرِمَا
+        “kelawan kira-kirane barang ”
+
+    </string>
+    <string name="aa6f">
+        Merupakan shifat dari kalimah الْمُسْلِمِ , kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah yang dikira-kirakan karena kalimah tersebut merupakan fi’il mudlori’ mu’tal akhir (fi’il mudlori’ yang diakhiri dengan huruf illat). Maka cara membacanya “
+        <sup> ص</sup>
+        يُؤَدِّىْ
+        kang nekani sopo muslim ()”
+
+    </string>
+    <string name="aa6g">
+        Kalimah tersebut bukan maf’ul mutlak huruf بِ  didalamnya merupakan huruf jer namun maknanya sama untuk memperkuat fi’il pada kalimah sebelumnya. Huruf بِ dalam kalimah tersebut bersambung dengan dlomir muttasil ﻪ yang merujuk pada huruf مَا pada lafadz sebelumnya. Maka cara membacanya
+         <sup> مط</sup>
+        بِهِ
+        “kelawan مَا”
+
+    </string>
+    <string name="aa6h">
+        Merupakan maf’ul bih atau kata keterangan pelengkap dari kalimah sebelumnya,  kalimah tersebut ber’irob nasab dengan alamat nasabnya fathah. Maka cara membacanya “
+          <sup> مف</sup>
+        فَرْضَ الصَّلَاة
+        ing ferdune sholat ( dalam ferdunya sholat)”
+
+    </string>
+    <string name="aa6j">
+        Merupakan fa’il dari kalimah sebelumnya وَيَجِبُ عَلَيْهِ , fa’il selalu bi’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya yaitu “ opo
+         <sup> ف</sup>
+        عِلْمُ مَا
+        ngaweruhi barang ( mengetahui sesuatu)”
+
+    </string>
+
+<!--    7-->
+    <string name="aa7a">
+        Merupakan shifat dari kalimah مَا , kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ص</sup>
+        يَقَعُ
+        kang tumibo opo مَا ( yang terjadi)”
+
+    </string>
+    <string name="aa7b">
+        Menujukkan makna tamalluk atau kepunyaan. Maka cara membacanya “
+         <sup> ل</sup>
+        لَهُ
+        keduwe Muslim (Untuk orang islam)”
+
+    </string>
+    <string name="aa7c">
+        Kalimah tersebut bukan maf’ul mutlak huruf بِ  didalamnya merupakan huruf jer namun maknanya sama untuk memperkuat. Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya
+         <sup> مط</sup>
+        بِقَدْرِمَا
+        “kelawan kira-kirane barang”
+
+    </string>
+    <string name="aa7d">
+        Merupakan shifat dari kalimah الْمُسْلِمِ , kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah yang dikira-kirakan karena kalimah tersebut merupakan fi’il mudlori’ mu’tal akhir (fi’il mudlori’ yang diakhiri dengan huruf illat). Maka cara membacanya “
+        <sup> ص</sup>
+        يُؤَدِّىْ
+        kang nekani sopo muslim (muslim yang menjalani atau melakukan)”
+
+    </string>
+    <string name="aa7e">
+        Kalimah tersebut bukan maf’ul mutlak huruf بِ  didalamnya merupakan huruf jer namun maknanya sama untuk memperkuat. Huruf بِ dalam kalimah tersebut bersambung dengan dlomir muttasil ﻪ yang merujuk pada huruf مَا pada lafadz sebelumnya. Maka cara membacanya
+         <sup> مط</sup>
+        بِهِ
+        “kelawan مَا”
+
+    </string>
+    <string name="aa7f">
+        Merupakan maf’ul bih atau kata keterangan pelengkap dari kalimah sebelumnya,  kalimah tersebut ber’irob nasab dengan alamat nasabnya fathah. Maka cara membacanya “
+          <sup> مف</sup>
+        الْوَاجِبَ
+        ing penggawe kang wajib (pada perkara yang wajib)”
+
+    </string>
+    <string name="aa7g">
+        Dalam kalimah tersebut terdapat huruf ta’lil berupa لِ yang menjelaskan alasan adanya atau terjadinya sesuatu. Maka cara membacanya “
+         <sup> ع</sup>
+        لِاَنَّ مَا
+        kerono setuhune barang (karena sesungguhnya)”
+
+    </string>
+    <string name="aa7h">
+        Merupakan shifat dari kalimah sebelumnya, kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah kalimah tersebut berbentuk fi’il mudlori’ . Maka cara membacanya “
+        <sup> ص</sup>
+        يُتَوَسَّلُ
+        kang digawe lantaran (yang dijadikan perantara)”
+
+    </string>
+    <string name="aa7i">
+        Merupakan fa’il dari kalimah sebelumnya. Huruf بِ dalam kalimah tersebut merupakan huruf jer yang bersasmbung dengan dlomir ﻪ yang merujuk pada مَا . Sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ف</sup>
+        بِهِ
+        opo مَا “
+
+    </string>
+    <string name="aa7j">
+        Kalimah tersebut menunjukan makna pengkhususan tertuju pada satu tujuan yaitu mendirikan perkara fardhu . Kalimah tersebut merupakan susunan jer majrur, dimajrurkan dengan huruf jer اِلَى sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh. Maka cara membacanya “
+         <sup> ما</sup>
+        اِلَى اِقَامَةِ الْفَرْضِ
+        maring ngedekaken ferdhu ( terhadap mendirikan perkara ferdhu)”
+
+    </string>
+
+
+<!--    8-->
+    <string name="aa8a">
+        Merupakan khobar dari مَا. Kalimah tersebut berbentuk fi’il mudlori’, dan beri’rob rofa dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        يَكُوْنُ
+        ono opo مَا”
+
+    </string>
+    <string name="aa8b">
+        Merupakan khobar  dari kalimah sebelumnya
+         <sup> خ</sup>
+        يَكُوْنُ
+        , kalimah yang menjadi khobar dari  كان واخواتها selalu ber’irob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “ iku خفَرْضًا dadi ferdhu (itu menjadi fardhu)”
+
+    </string>
+    <string name="aa8d">
+        Merupakan shifat dari kalimah sebelumnya, kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah kalimah tersebut berbentuk fi’il mudlori’ . Maka cara membacanya “
+         <sup> ص</sup>
+        يُتَوَسَّلُ
+        kang digawe lantaran (yang dijadikan perantara)”
+
+    </string>
+    <string name="aa8e">
+        Merupakan fa’il dari kalimah sebelumnya. Huruf بِ dalam kalimah tersebut merupakan huruf jer yang bersasmbung dengan dlomir ﻪ yang merujuk pada مَا . Sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ف</sup>
+        بِهِ
+        opo مَا”
+
+    </string>
+    <string name="aa8f">
+        Kalimah tersebut menunjukan makna pengkhususan tertuju pada satu tujuan yaitu mendirikan perkara wajib . Kalimah tersebut merupakan susunan jer majrur, dimajrurkan dengan huruf jer اِلَى sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh. Maka cara membacanya “
+         <sup> م</sup>
+        ااِلَى اِقَامَةِ الْوَاجِبِ
+        maring nindakake perkoro wajib (terhadap melakukan perkara wajib)”
+
+    </string>
+    <string name="aa8g">
+        Merupakan khobar dari مَا. Kalimah tersebut berbentuk fi’il mudlori’, dan beri’rob rofa dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        يَكُوْنُ
+        ono opo مَا”
+
+    </string>
+    <string name="aa8h">
+        Merupakan khobar  dari kalimah sebelumnya
+         <sup> خ</sup>
+        يَكُوْنُ
+        , kalimah yang menjadi khobar dari  كان واخواتها selalu ber’irob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        وَاجِبًا
+        dadi wajib (itu menjadi wajib)”
+
+    </string>
+    <string name="aa8j">
+        Merupakan dzorof zaman yang menunjukan makna  perkara wajib yaitu pada puasa dan zakat. Kalimah tersebut merupakan susunan jer majrur, dimajrurkan dengan huruf فِيْ sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh. Dalam kalimah tersebut terdepat pula susuna athof yang terdiri dari ma’thuf (الزَّكَاةِ) dan ma’thuf ‘alaih (فِيْ الصَّوْمِ) dua kalimah tersebut tersambung oleh huruf athof berupa وَ . i’rob dari ma’thuf mengikuti ma’thuf ‘alaihnya. Maka cara membacanya “
+         <sup> ظز</sup>
+        فِيْ الصَّوْمِ وَالزَّكَاةِ
+        ingdalem bab poso lan zakat (dalam bab puasa dan zakat)”
+
+    </string>
+
+
+<!--    9-->
+    <string name="aa9a">
+        Merupakan jumlah syarthiah maksudnya kalimah tersebut bermakna sebuah syarat yang harus dijawab oleh kalimah sesudahnya. Kalimah tersebut beri’rob nasab dengan alamat nasobnya fathah. Maka cara membacanya “
+         <sup> ش</sup>
+        اِنْ كَانَ
+        lamun ono (jika ada)”
+
+    </string>
+    <string name="aa9b">
+        Merupakan khobarnya كَانَ. Huruf لَ bersambung dengan dlomir ﻪ yang merujuk pada "مَنْ" . kalimah tersebut beri’rob nasob dengan alamat nasobnya fatah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        لَهُ
+        keduwe "مَنْ" / wong”
+
+    </string>
+    <string name="aa9c">
+        Merupakan fail dari kalimah كَانَ . kalimah tersebut beri’rob rofa dengan alamat rofa’nya yaitu dlumah. Maka cara membacanya “ opo
+         <sup> ف</sup>
+        مَالٌ
+        bondo (harta)”
+
+    </string>
+    <string name="aa9e">
+        Merupakan dzorof zaman mubham yang menunjukan makna pada suatu hal saja yaitu perdagangan yang tidak terikat pada waktu tertentu. Kalimah tersebut merupakan susunan jer majrur, dimajrur kan dengan huruf jer فِيْ. Sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh, merupakan jamak dari kalimah بَيْعٌ . maka cara membacanya “
+        <sup> ظز</sup>
+        فِيْ
+        <sup> ج</sup>
+        الْبُيُوْعِ
+        ingdalem piro-piro adol tuku (dalam jual beli)”
+
+    </string>
+    <string name="aa9f">
+        Merupakan jumlah syarthiah maksudnya kalimah tersebut bermakna sebuah syarat yang harus dijawab oleh kalimah sesudahnya. Kalimah tersebut beri’rob nasab dengan alamat nasobnya fathah. Maka cara membacanya “
+         <sup> ش</sup>
+        اِنْ كَانَ
+        lamun ono (jika ada)”
+
+    </string>
+    <string name="aa9g">
+        Merupakan khobar  dari كَانَ . Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        يَتَّجِرُ
+        dagangan sopo من/ wong (berjualan)”
+
+    </string>
+
+
+<!--    10-->
+    <string name="aa10a">
+        Kalimah tersebut menunjukan makna pengkhususan tertuju pada satu tujuan yaitu pada Syaikh Muhammad bin Hasan. Kalimah tersebut merupakan susunan jer majrur, dimajrurkan dengan huruf jer لِى sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh. Maka cara membacanya “
+         <sup> ما</sup>
+        لِمُحَمَّدِبْنِ الْحَسَنِ
+        maring  Syaikh Muhammad Bin Hasan (oleh Syaikh Muhammad bin Hasan)”
+
+    </string>
+    <string name="aa10b">
+        Merupakan kalimah yang menunjukkan makna mendo’akan. Maka cara membacanya “
+         <sup> د</sup>
+        رَحِمَهُ
+        mugo-mugo paring rohmat ﻪ ing مُحَمَّدِبْنِ الْحَسَنِ”
+
+    </string>
+    <string name="aa10c">
+        Merupakan fa’il dari kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya  “ sinten
+         <sup> فا</sup>
+        اللّهُ
+        Allah”
+
+    </string>
+
+    <string name="aa10e">
+        Merupakan maf’ul bih atau kata keterangan pelengkap dari kalimah sebelumnya,  kalimah tersebut ber’irob nasab dengan alamat nasabnya fathah. Maka cara membacanya “
+          <sup> مف</sup>
+        كِتَابًا
+        ing kitab (kitab)”
+
+    </string>
+    <string name="aa10f">
+        Merupakan dzorof zaman mubhamyang menunjukan makna pada suatu hal saja yang tidak terikat waktu tertentu yaitu kezuhudan. Kalimah tersebut merupakan susunan jer majrur, dimajrur kan dengan huruf jer فِيْ. Sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh. maka cara membacanya “
+         <sup> ظز</sup>
+        فِىْ الزُّهْدِ
+
+    </string>
+    <string name="aa10h">
+        Merupakan badal bagi kalimah sebelumnya pengganti, maksudnya adapaun bentuk dialog yang dikemukakan syekh Muhammad yaitu mulai dari kalimah
+         <sup> بد</sup>
+        صَنَّفْتُ
+        . Kalimah tersebut beri’rob rofa’ karena fi’il mudlori’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> بد</sup>
+        صَنَّفْتُ
+        wus nganggit sopo ingsun (telah kususun)”
+
+    </string>
+    <string name="aa10i">
+        Merupakan maf’ul bih atau kata keterangan pelengkap dari kalimah sebelumnya,  kalimah tersebut ber’irob nasab dengan alamat nasabnya fathah. Maka cara membacanya “
+          <sup> مف</sup>
+        كِتَابًا
+        ing kitab (kitab)”
+
+    </string>
+    <string name="aa10j">
+       Merupakan dzorof zaman mubham yang menunjukan makna pada suatu hal saja dan tidak terikat suatu waktu tertentu yaitu jual beli. Kalimah tersebut merupakan susunan jer majrur, dimajrur kan dengan huruf jer فِيْ. Sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh, kalimah merupakan jamak dari kalimah بَيْعٌ . maka cara membacanya “
+         <sup> ظز</sup>
+        فِيْ
+        <sup> ج</sup>
+        الْبُيُوْعِ
+        ingdalem piro-piro adol tuku (dalam jual beli)”
+
+    </string>
+
+
+<!--    11-->
+
+    <string name="aa11b">
+        Merupakan mubtada’ atau permulaan kalimat yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Adapun cara membacanya “
+         <sup> م</sup>
+        الزَّاهِدُ
+        utawi kang aran zuhud (yang dinamakan zuhud”
+
+    </string>
+    <string name="aa11c">
+        Merupakan khobar dari kalimah sebelumnya. Sehingga cara membacanya “ iku
+         <sup> خ</sup>
+        مَنْ
+        wong (yaitu orang)
+
+    </string>
+    <string name="aa11d">
+        Merupakan shilah yang menyempurnakan makna kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membcanya “
+         <sup> ص</sup>
+        يَتَحَرَّزُ
+        kang ngerekso (yang menjaga)
+
+    </string>
+    <string name="aa11e">
+        Kalimah tersebut berbentuk jamak maksudnya makna dari kalimah tersebut menunjukan makna lebih dari 3. Kalimah tersebut beri’rob jerk arena masuknya amil jer berupa huruf dengan alamt jernya yaitu kasroh. Maka cara membacanya “
+         عَنِ
+        <sub> ج</sub>
+        الشُّبُهَاتِ
+        saking piro-piro subhat ( dan perkara-perkara subhat)”
+
+    </string>
+    <string name="aa11f">
+        Kalimah tersebut berbentuk jamak maksudnya makna dari kalimah tersebut menunjukan makna lebih dari 3. Kalimah tersebut merupakan ma’thuf dari kaliamah sebelumnya yang tersambung dengan huruf وَ sehingga I’robnyapun mengikuti kalimah sebelumnya yaitu jer dengan alamat jernya kasroh. Maka cara membacanya “
+         <sub> ج</sub>
+        وَالْمَكْرُوْهَاتِ
+        lan piro-piro makruh ( dan perkara-perkara makruh)”
+
+    </string>
+    <string name="aa11g">
+        Merupakan dzorof zaman yang menunjukan makna pada suatu hal saja dan tidak terikat suatu waktu tertentu yaitu perdagangan. Kalimah tersebut merupakan susunan jer majrur, dimajrur kan dengan huruf jer فِيْ. Sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh,  merupakan jamak dari kalimah تِجَارَةٌ . maka cara membacanya “
+         <sup> ظز</sup>
+        فِى
+         <sub> ج</sub>
+        التِّجَارَاتِ
+        ingdalem piro-piro dagangan (dalam perdagangan )”
+
+    </string>
+
+
+
+<!--    12-->
+    <string name="aa12a">
+        Merupakan dzorof zaman yang menunjukan makna pada suatu hal saja yaitu semua pekerjaan. Kalimah tersebut merupakan susunan jer majrur, dimajrur kan dengan huruf jer فِيْ. Sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh, kalimah merupakan jamak dari kalimah عَمَلٌ . maka cara membacanya “
+         <sup> ظز</sup>
+        فِيْ سَائِرِ
+         <sub> ج</sub>
+        الْمُعَامَلَاتِ
+        ingdalem sekabehe sambut gawe (dalam semua pekerjaan )”
+
+    </string>
+    <string name="aa12b">
+        Merupakan ma’thuf dari kalimah sebelumnya yang tersambung dengan huruf  athof وَ. Sehingga i’robnya mengikuti ma’thuf ‘alaihnya yitu jer dengan alamat jernya kasroh. Maka cara membacanya “
+         وَ
+        <sub> ج</sub>
+        الْحِرَفِ
+        lan piro-piro penggawean ( dan pekerjaan-pekerjaan)
+
+    </string>
+    <string name="aa12c">
+        Merupakan mubtada’ yang beri’rob rofa’ dengan alamat rofa’nya dlomah. Maka cara membacanya. “
+         وَ
+        <sup> م</sup>
+        كُلُّ مَنِ
+        utawi saben-saben wong (setiap manusia)”
+
+    </string>
+
+    <string name="aa12e">
+        Merupakan shilah dari kalimah sebelumnya yang memberikan keterangan sifat untuk kalimah sebelumnya atau menyempurnakan maknanya. Maka cara membacanya “
+         <sup> ص</sup>
+        اشْتَغَلَ
+        kang ngerekso sopoمَن (yang menjaga)”
+
+    </string>
+    <string name="aa12f">
+        Kalimah tersebut bukan maf’ul mutlak huruf بِ  didalamnya merupakan huruf jer namun maknanya sama untuk memperkuat. Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> مط</sup>
+        بِشَيْءٍ
+        kelawan suwiji-wiji”
+
+    </string>
+
+    <string name="aa12h">
+        Merupakan khobar drai mubtada’. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah maka cara membacanya “ iku
+         <sup> خ</sup>
+        يُفْتَرَضُ
+        diferdhuake (diwajibkan)”
+
+    </string>
+
+    <string name="aa12j">
+        Merupakan fa’il ghoiru aqli (tidak berakal) dari kalimah sebelumnya. Kalimah tersebut juga merupakan susunan idhofah yang terdiri dari mudhof (عِلْمُ ) dan mudhof ilaih (التَّحَرُّزِ). Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membanya “ opo
+         <sup> ف</sup>
+        عِلْمُ التَّحَرُّزِ
+         ilmune ngerekso (ilmunya menjaga)”
+
+    </string>
+
+
+<!--    13-->
+    <string name="aa13b">
+        Merupakan fa’il ghoiru aqli (tidak berakal) dari kalimah sebelumnya. Kalimah tersebut juga merupakan susunan idhofah yang terdiri dari mudhof (عِلْمُ ) dan mudhof ilaih (اَحْوَالِ الْقَلْبِ). Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Kalimah tersebut juga berbentuk jama’ dari kalimah حَالٌ Maka cara membanya “ opo
+         <sup> ف</sup>
+        عِلْمُ
+        <sub> ج</sub>
+        اَحْوَالِ الْقَلْبِ
+        ngaweruhi piro-piro tingkahe ati (mengetahui keadaan
+
+    </string>
+
+
+
+<!--    14-->
+    <string name="aa14a">
+        Kalimah tersebut bukan kalimah jawab huruf dalam kalimah tersebut merupakan huruf isti’nafiyah (permulaan) namun dalam membacanya atau pemaknaannya secara jawa tetap dengan kata “mongko”. Kalimah tersebut beri’rob nasob dengan alamat nasobnya yaitu fathah, dlomir ﻪ dalam kalimah tersebut merujuk pada kalimah
+         <sup> ف</sup>
+        عِلْمُ
+        <sub> ج</sub>
+        اَحْوَالِ الْقَلْبِ
+        . Maka cara membacanya “
+         <sup> ج</sup>
+        فَاِنّهُ
+        mongko setuhune
+         <sup> ف</sup>
+        عِلْمُ
+        <sub> ج</sub>
+        اَحْوَالِ الْقَلْبِ
+        ”
+
+    </string>
+    <string name="aa14b">
+        Merupakan khobar dari mubtada’ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        وَاقَعٌ
+        tumibo”
+
+    </string>
+    <string name="aa14c">
+        Merupakan dzorof zaman mubham yang menunjukan makna pada suatu hal saja yaitu semua keadaan dan tidak terikat pada waktu tertentu. Kalimah tersebut merupakan susunan jer majrur, dimajrur kan dengan huruf jer فِيْ. Sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh, kalimah merupakan jamak dari kalimah حَالٌ . maka cara membacanya “
+         <sup> ظز</sup>
+        فِيْ جَمِيْعِ
+         <sub> ج</sub>
+        الْاَحْوَالِ
+        ingdalem sekabehe piro-piro tingkah (dalam semua keadaan )”
+
+    </string>
+    <string name="aa14d">
+        Merupakan mubtada’ kalimah tersebut juga merupakan susunan idhofah yang terdiri dari mudhlof (وَشَرَفُ) dan mudhof ilaih (الْعِلْمِ). Kalimah tersebut beri’rob rofa dengan alamat rofa’nya yaitu kasroh. Maka cara membacanya “
+         <sup> م</sup>
+        وَشَرَفُ الْعِلْمِ
+        utawi mulyane ilmu (mulyanya ilmu).
+
+    </string>
+    <string name="aa14e">
+        Merupakan khobar dari kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah yang dikira-kirakan karena bentuk dari kalimah tersebut adalah fi’il mudlori’ mu’tal akhir (fi’il yang diakhiri dengan huruf ilat ا و ي) kalimah tersebut juga kemasukan huruf لَا nafi atau huruf لَا yang memiliki makna tidak (penolakan). Adapun cara membacanya “ iku
+         <sup> خ نف</sup>
+        لَا يَخْفَى
+        ora samar (tidak samar)”
+
+    </string>
+    <string name="aa14g">
+        Merupakan mubtada’ dengan dlomir هُوَ yang merujuk pada kalimah الْعِلْمِ maka cara membacanya “
+         <sup> م</sup>
+        اِذْ هُوَ
+        kerono utawi ilmu (ilmu yaitu)”
+
+    </string>
+    <string name="aa14h">
+        Merupakan khobar dari kalimah sebelumnya yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        مُخْتَصُّ
+        den ter
+
+    </string>
+
+
+<!--    15-->
+    <string name="aa15a">
+        Merupakan maf’ul mutlak yang mnejelaskan keterangan kalimah sebelumnya yang belum dijelaskan.  Huruf بِ dalam kalimah tersebut merupakan huruf jer sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya  “
+         <sup> مط</sup>
+        بِالْاِنْسَانِيَّةِ
+        kelawan bongso menungso ()”
+
+    </string>
+    <string name="aa15b">
+        Merupakan ta’lil menunjukan makna karena yang menjelaskan alasan dari kalimah sebelumnya. Ditujukan dengan huruf ta’lil لِ . susunan kalimah tersebut beri’rob nasob karena kemasukan amil nasob berupa اَنَّ. Namun karena susunannya berupa susunan idhofah yang terdiri dari mudhof (جَمِيْعَ) dan mudhlof ilaih (الْخِصَالِ)  maka kalimah terakhir beri’rob jer dengan alamat jernya yaitu kasroh. Adapun cara membacanya “
+         <sup> ع</sup>
+        لِاَنَّ جَمِيْعَ الْخِصَالِ
+        kerono setuhune sekabehe piro-piro perkoro (karena susungguhnya semua perkara)
+
+    </string>
+    <string name="aa15c">
+        Merupakan na’at yang menyifati kalimah sebelumnya. Kalimah tersebut merupakan susunan idhofah yang terdiri dari mudhof (سِوَى) dan mudhof ilaih (الْعِلْمِ) sehingga susunan kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ن</sup>
+        سِوَى الْعِلْمِ
+        kang sakliayne ilmu (selain ilmu)”
+
+    </string>
+    <string name="aa15d">
+        Merupakan khobar dari اَنَّ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “iku
+         <sup> خ</sup>
+        يَشْتَرِكُ
+        dadi sekuton (menjadi sekutu)”
+
+    </string>
+    <string name="aa15e">
+        Merupakan dzorof zaman mubham yang menunjukkan makna pada satu tujuan saja dan tidak terikat pada waktu tertentu yaitu pada dlomir هَا yang mrujuk pada kalimah الْخِصَالِ yang artinya perkara-perkara. Maka cara membacanya “
+         <sup> ظز</sup>
+        فِيْهَا
+        ingdalem الْخِصَالِ (dalam perkara-perkara)”
+
+    </string>
+    <string name="aa15f">
+        Merupakan fail (yang berakal) dari kalimah sebelumnya yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ sopo
+         <sup> فا</sup>
+        الْإِنْسَانُ
+        menungso (manusia)”
+
+    </string>
+    <string name="aa15h">
+        Merupakan bentuk kalimah jamak dari حيوان  . kalimah tersebut merupakan mudhof ilaih dari kalimah sebelumnya sehingga beri’rob jer dengan alamat jernya yaitu kasroh. Adapun cara membacanya yaitu “
+         <sub> ج</sub>
+        الْحَيَوَانَاتِ
+        piro-piro kayawan (hewan-hewan)”
+
+    </string>
+
+
+<!--    16-->
+    <string name="aa16b">
+        Merupakan maf’ul mutlak yang menjelaskan kembali dan memperkuat dlomir ﻪ yang merujuk pada kalimah الْعِلْمِ . kalimah tersebut beri’rob jer karena huruf بِ dalam kalimah tersebut merupakan huruf jer, maka alamat jernya yaitu kasroh. Adapun cara membacanya “
+         وَ
+        <sup> مط</sup>
+        بِهِ
+        lan kelawan ilmu (dan dengan ilmu)”
+
+    </string>
+    <string name="aa16d">
+        Merupakan fail dari kalimah sebelumnya yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ sinten
+         <sup> فا</sup>
+        اللّهُ
+        Allah”
+
+    </string>
+    <string name="aa16e">
+        Merupakan khal atau kalimah yang memiliki makna menjelaskan keadaan dari kalimah sebelumnya. Maka cara membacanya “
+         <sup> حا</sup>
+        تَعَالَى
+        khale moho luhur sinten Allah (Allah yang maha luhur)”
+
+    </string>
+
+
+
+<!--    17-->
+    <string name="aa17a">
+        Merupakan maf’ul bih dari kalimah sebelumnya yang beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> مف</sup>
+        فَضْلَ
+        ing kautamane (keutamaanya)”
+
+    </string>
+    <string name="aa17c">
+        Merupakan khobar muqoddam atau khobar yang berada pada sebelum mubtada’nya (kalimah sesudahnya berkedudukan mubtada’ muakhor). Kalimah tersebut merupakan huruf jer عَلَيْ yang bersambung dengan dlomir ﻪ yang merujuk pada kalimah ادَمَ. Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> خ</sup>
+        عَلَيْهِ
+         iku tetep ingatase nabi adam”
+
+    </string>
+    <string name="aa17d">
+        Merupakan mubtada’ muakhor atau mubtada’ yang berada dibelakang khobarnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> م</sup>
+        الصَّلاَةُ وَالسَّلَامُ
+         utawi sholawat lan salam”
+
+    </string>
+    <string name="aa17f">
+        Merupakan maful mutlak dari kalimah sebelumnya maksudnya kalimah tersebut menjelaskan apa yg diperintahkan Allah kepada malaikat. Huruf بِ dalam kalimah tersebut adalah huruf jer, sehingga I’rob kalimah tersebut jer, dengan alamt jernya yautu kasroh. Adapun cara membacanya “
+         <sup> مط</sup>
+        بِالسُّجُوْدِ
+        kelawan sujud (sujud)”
+
+    </string>
+    <string name="aa17g">
+        Merupakan ikhtishos atau pengkhususan, maksudnya kalimah tersebut memiliki makna yang mengkhususkan. Dlomir ﻪ dalam kalimah tersebut merujuk pada kalimah ادَمَ yang artinya Nabi Adam. Maka cara membacanya “
+         <sup> ما</sup>
+        لَهُ
+        maring nabi Adam (terhadap Nabi Adam)”
+
+    </string>
+    <string name="aa17i">
+        Merupakan mubtada’ kalimah tersebut merupakan susunan idhofah yang tersusun dari mudhof (شَرَفُ) dan mudhof ilaih (الْعِلْم) sehingga kalimah tersebut beri’rob jer dengan alamat jernya kasroh. Maka cara membacanya “
+         <sup> م</sup>
+        شَرَفُ الْعِلْم
+        utawi mulyane ilmu (mulyanya ilmu)”
+
+    </string>
+
+
+<!--    18-->
+    <string name="aa18a">
+        Merupakan khobarnya mubtada’ kalimah tersebut juga terdapat huruf ta’lil yaitu لِ yang menunjukkan bahwa kalimah tersebut merupakan sebuah alasan dari kalimah sebelumnya. Kalimah tersebut beri’rob jer dengan alamt jernya yaitu kasroh. Maka cara membacanya “ iku
+         <sup> خ ع</sup>
+        لِكَوْنِهِ
+        kerono anane ilmu (karena ilmu)”
+
+    </string>
+    <string name="aa18b">
+        Merupakan khobar dari kalimah sebelumnya
+         <sup> خ ع</sup>
+        لِكَوْنِهِ
+        yang mempertegas maksud makna kalimah sebelumnya. Setiap khobar كان واخواتها selalu beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        وَسِيْلَةً
+        dadi lantaran (jadi perantara)”
+
+    </string>
+    <string name="aa18d">
+        Merupakan na’at yang menyifati kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ن</sup>
+        يَسْتَحِقُّ
+        kang ngehaqi sopo من (manusia yang berhak)”
+
+    </string>
+    <string name="aa18e">
+        Merupakan sababiyah dari kalimah sebelumnya maksudnya kalimah tersebut menunjukkan makna sebab dari kalimah sebelumnya. Kalimah tersebut bersambung dengan dlomir هَا yang merujuk pada kalimah التَّقْوَى. maka cara membacanya “
+         <sup> س</sup>
+        بِهَا
+        sebab taqwa (sebab taqwa)”
+
+    </string>
+    <string name="aa18f">
+        Merupakan maf’ul bih yang memperjelas maksud makna kalimah sebelumnya. Kalimah tersebut beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> مف</sup>
+        الْكَرَامَةَ
+         ing kamulyan (kemulyaan)”
+
+    </string>
+    <string name="aa18h">
+        Merupakan khal atau kalimah yang memiliki makna menjelaskan keadaan dari kalimah sebelumnya. Maka cara membacanya “
+         <sup> حا</sup>
+        تَعَالَى
+        khale moho luhur sinten Allah (Allah yang maha luhur)”
+
+    </string>
+
+
+<!--    19-->
+    <string name="aa19b">
+        Merupakan na’at dari kalimah sebelumnya. Maksudnya makna dari kalimah tersebut menyifati makna dari kalimah sebelumnya. Kalimah tersebut beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> ن</sup>
+        الْاَبَدِيَّةَ
+        kang bongso selawase (yang kekal)”
+
+    </string>
+    <string name="aa19c">
+        Merupakan ikhtishoh maksudnya pengkhususan makna yang tertuju pada sesuatu atau seseorang. Huruf لِ pada kalimah tersebut merupakan huruf jer sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ا</sup>
+        لِمُحَمَّدِ بْنِ الْحَسَنِ ابْنِ عَبْدِاللَّهِ
+        maring Syaikh Muhammad Bin Hasan Bin Abdillah”
+
+    </string>
+    <string name="aa19d">
+        Merupakan mubtada’ kalimah tersebut merupakan susunan idhofah yang terdiri dari mudhof (مرَحْمَةُ) dan mudhof ilaih (اللَّهِ) . kalimah tersebut beri’rob jer’ dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> م</sup>
+        رَحْمَةُ اللَّهِ
+        utawi kawelasane Allah (kasih sayang Allah)”
+
+    </string>
+    <string name="aa19e">
+        Merupakan khobarnya mubtada’ (kalimah sebelumnya). Huruf عَلَيْ merupakan huruf jer sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Dalam kalimah tersebut huruf jer bersambung dengan dlomir ﻪ yang merujuk pada kalimah
+        مُحَمَّدِ بْنِ الْحَسَنِ ابْنِ عَبْدِاللَّهِ. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        عَلَيْهِ
+        tetep ingatase Syaikh Muhammad Bin Hasan Bin Abdillah”
+
+    </string>
+    <string name="aa19f">
+        Merupakan fail dari kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ف</sup>
+        شِعْرٌ
+        opo syi’ir (syair)”
+
+    </string>
+
+
+<!--    20-->
+    <string name="aa20b">
+        Merupakan jawab dari kalimah sebelumnya. Kalimah tresebut beri’rob nasob karena merupakan isimnya اِنَّ dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> ج</sup>
+        فَاِنَّ الْعِلْمَ
+        mongko setuhune ilmu (maka sesungguhnya ilmu)”
+
+    </string>
+    <string name="aa20c">
+        Merupakan khobarnya اِنَّ . kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        زَيْنٌ
+        dadi pepaes (menjadi perhiasan)”
+
+    </string>
+    <string name="aa20d">
+        Merupakan ikhtishoh atau pengkhususan, maksudnya makna kalimah tersebut merupakan penghususan dari kalimah sebelumnya terhadap makna kalimah itu sendiri yaitu orang yang mempunyai ilmu. Huruf لِ dalam kalimah tersebut merupakan huruf jer sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Adapun cara membacanya “
+         <sup> م</sup>
+        الِاَهْلِهِ
+        maring wong kang duweni ilmu (bagi orang yang berilmu)”
+
+    </string>
+
+
+
+<!--    21-->
+    <string name="aa21b">
+        Merupakan na’at yang menyifati kalimah sebelumnya, artinya kalimah tersebut menyifati kalimah sebelumnya. Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Adapun cara membacanya “
+         <sup> ن</sup>
+        الْمَحَامِدِ
+        kang den puji (yang dipuji)”.
+
+    </string>
+
+
+
+<!--    22-->
+    <string name="aa22b">
+        Merupakan khobar dari kalimah sebelumnya كُنْ .kalimah tersebut beri’rob nasob karena kedudukannya sebagai khobarnya كانdengan alamat nasobnya yaitu fathah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        مُسْتَفِيْدًا
+        wong kang ngalap faedah (orang yang mengambil manfaat)”
+
+    </string>
+    <string name="aa22c">
+        Merupakan dzorof zaman mukhtas. Maksudnya kalimah tersebut merupakan isim yang memiliki makna yang menunjukan waktu tertentu yaitu setiap hari. Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ظز</sup>
+        كُلَّ يَوْمٍ
+        ingdalem saben dino (setiap hari)”
+
+    </string>
+    <string name="aa22d">
+        Merupakan maful bih yang memperjelas makna kalimah sebelumnya. Kalimah tersebut bero’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> مف</sup>
+        زِيَادَةً
+        ing tambah (tambah)”
+
+    </string>
+
+
+
+<!--    23-->
+    <string name="aa23b">
+        Merupakan dzorof makan, maksudnya makna kalimah tersebut menjelaskan atau menunjukkan tempat dimana  terjadinya pekerjaan (kalimah sebelumnya). Huruf فِيْ dalam kalimah tersebut merupakan huruf jer sehingga kalimah tersbut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ظم</sup>
+        فِيْ بُحُوْرِ الْفَوَائِدِ
+        ingdalem segarane piro-piro faedah (dalam lautan manfaat)”
+
+    </string>
+
+
+
+<!--    24-->
+    <string name="aa24b">
+        Merupakan ta’lil atau kalimah yang maknanya menunjukkan alasan dari kalimah sebelumnya (تَفَقَّهْ : perintah untuk belajar ilmu fiqih). Kalimah tersebut beri’rob nasob karena dia merupakan isimnya اِنَّ dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> ع</sup>
+        فَاِنَّ الْفِقْهَ
+         kerono sak temene ilmu fiqih (karena sesungguhnya ilmu fiqih)”
+
+    </string>
+    <string name="aa24c">
+        Merupakan khobarnya اِنَّ yang beri’rob rofa’ dengan alamat rofa’nya yaitu
+    </string>
+    <string name="aa24d">
+        Merupakan na’at dari kalimah sebelumnya, maksudnya kalimah tersebut memiliki makna yang menyifati kalimah tersebut. Kalimah tersebut beri’rob jer karena untuk menyesuaikan syi’ir dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ن</sup>
+        قَائِدِ
+        kang nuntun (yang menuntun)”
+
+    </string>
+
+
+
+<!--    26-->
+    <string name="aa26a">
+        Merupakan mubtada’ yang berbentuk isim dlomir yang maknanya merujuk pada علم فقه . maka cara membacanya “
+         <sup> م</sup>
+        هُوَ
+        utawi ilmu fiqih (ilmu fiqih)”
+
+    </string>
+    <string name="aa26b">
+        Merupakan khobarnya mubtada’ (kalimah sebelumnya). Kaliamh tersebut merupakan susunan idhofah. Sehingga beri’rob jer dengan alamat jernya yaitu kasroh, maka cara membacanya “iku
+         <sup> خ</sup>
+        الْعَلَمُ الْهَادِىْ
+        tondo tetenger kang nuduhaken (tanda yang menunjukkan)”
+
+    </string>
+    <string name="aa26c">
+        Merupakan ikhtishos, maksudnya makna dari kalimah tersebut mengkhususkan atau menunjuk pada satu tujuan yaitu jalannya petunjuk. Huruf اِلَى dalam kalimah tersebut merupakan huruf jer, sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ما</sup>
+         اِلَى
+        <sub> ج</sub>
+        سَنَنِ الْهُدَى
+        maring piro-iro dalane pituduh (terhadap jalannya petunjuk”
+
+    </string>
+
+
+
+<!--    27-->
+    <string name="aa27a">
+        Merupakan mubtada’ yang berbentuk isim dlomir yang maknanya merujuk pada علم فقه . maka cara membacanya “
+         <sup> م</sup>
+        هُوَ
+        utawi ilmu fiqih (ilmu fiqih)”
+
+    </string>
+    <string name="aa27b">
+        Merupakan khobarnya mubtada’ (kalimah sebelumnya). Kaliamh tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah, maka cara membacanya “iku
+         <sup> خ</sup>
+        الْحِصْنُ
+         minongko banteng (banteng)”
+
+    </string>
+    <string name="aa27c">
+        Merupakan na’at yang menyifati kalimah sebelumnya, maksdunya makna dari kalimah tersebut menyifati makna dari kalimah sebelumnya. Maka cara membacanya “
+         <sup> ن</sup>
+        يُنْجِيْ
+        kang nyelametaken opo الْحِصْنُ (yang menyelamatkan)”
+
+    </string>
+
+
+
+<!--    28-->
+    <string name="aa28a">
+        Merupakan jawab dari kalimah sebelumnya, maksdunya makna kalimah tersebut merupakan jawaban dari makna kalimah sebelumnya. Kalimah tersebut beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> ج</sup>
+        فَاِنَّ فَقِيْهًا
+        mongko saktemenne wong kang ngalim ilmu fiqih (sesungguhnya orang tau (pintar) dalam ilmu fiqih)”
+
+    </string>
+    <string name="aa28b">
+        Merupakan na’at yang menyifati kalimah sbelumnya, maksudnya makna dari kalimah tersebut menunjukkan sifat dari kalimah sebelumnya. Kalimah tersebut beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> ن</sup>
+        وَحِدًا
+        kang siji (satu)”
+
+    </string>
+    <string name="aa28c">
+        Merupakan na’at kedua dari kalimah فَقِيْهًا maksudnya makna kalimah tersebut menunjukkan sifat kedua dari kalimah فَقِيْهًا. Kalimah tersebut beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> ن</sup>
+        مُتَوَرِّعًا
+         tur kang wira’I (dan yang menjauhi perkara-perkara haram)”
+
+    </string>
+
+
+
+<!--    29-->
+    <string name="aa29a">
+        Merupakan khobar yang beri’rob rofa’ dengan alamat rofanya yaitu dlomah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        أَشَدُّ
+        luwih banget (lebih)”
+
+    </string>
+
+
+
+<!--    30-->
+    <string name="aa30b">
+        Merupakan dzorof zaman mubham yang menunjukan makna kalimah tersebut tidak terikat waktu tertentu. Kalimah tersebut juga merupakan bentuk jamak خلق . kalimah tersebut beri’rob jer karena kemasukan amil jer berupa huruf فِيْ .dengan alamat jernya yaitu kasroh maka cara membacanya “
+         <sup> ظز</sup>
+        فِيْ سَائْرِ
+        <sub> ج</sub>
+        الْأَخْلَاقِ
+         ingdalem sekerine piro-piro budi pekerti”
+
+    </string>
+    <string name="aa30c">
+        Merupakan khobar dari mubtada’ kalimah tersebut beri’rob jer karena merupakan susunan idhofah, dengan alamat jernya yaitu kasroh. Maka cara membacanya “iku
+         <sup> خ</sup>
+        نَحْوُ الْجُوْدِ
+        upamane lumo (misalnya dermawan)”
+
+    </string>
+
+
+<!--    31-->
+    <string name="aa31a">
+        Merupakan kalimah jawab atau pembuka untuk melanjutkan penjelasan dari kalimah sebelumnya. Kalimah tersebut beri’rob nasob karena merupakan isimnya اِنَّ dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> ج</sup>
+        فَاِنَّ الْكِبْرَ
+
+    </string>
+    <string name="aa31c">
+        Merupakan khobarnya اِنَّ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “iku
+         <sup> خ</sup>
+        حَرَمٌ
+        harom (haram)”
+
+    </string>
+    <string name="aa31e">
+        Merupakan kalimah yang bersifat nafi (menolak atau bermakna tidak) maksudnya makna kalimah tersebut berubah menjadi bermakna menolak atau bermakna tidak karena masuknya huruf nafi berupa لَا . maka cara membacanya “
+         وَ
+        <sup> نف</sup>
+        لَا يُمْكِنُ
+        lan ora kongang (dan tidak bisa)”
+
+    </string>
+    <string name="aa31f">
+        Merupakan fail (ghoiru aql/tidak memiliki akal) dari kalimah sebelumnya, kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “opo
+         <sup> ف</sup>
+        التَّحَرُّزُ
+        ngerekso (menjaga)”
+
+    </string>
+    <string name="aa31h">
+        Merupakan maf’ul mutlak, maksudnya makna kalimah tersebut menguatkan makna dari kalimah sebelumnya atau sesudahnya. Kalimah tersebut ber’rob jer dengan alamat jernya yaitu kasroh. Kalimah tersbut bersambung dengan dlomir هَا yang merujuk pada الْكِبْرَ وَالْبُخْلَ وَالْجُبْنَ وَالْاِسْرَافَ   . maka cara membacanya “
+         <sup> مط</sup>
+        بِعِلْمِهَا
+        kelawan ngaweruhi kabeh (dengan mengetahui semua 4 sifat)
+
+    </string>
+
+
+
+<!--    32-->
+    <string name="aa32b">
+        Merupakan fail (yang memiliki akal) dari kalimah sebelumnya yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> فا</sup>
+        السَّيِّدُ
+        sopo sayyid (tuan)”
+
+    </string>
+    <string name="aa32c">
+        Merupakan na’at yang menyifati kalimah sebelumnya yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ن</sup>
+        الْاِمَامُ
+        kang dadi imam (yang menjadi imam)”
+
+    </string>
+    <string name="aa32d">
+        Merupakan na’at yang menyifati kalimah السَّيِّدُyang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ن</sup>
+        الْأَجَلُّ
+        kang agung (yang agung)”
+
+    </string>
+
+
+<!--    33-->
+    <string name="aa33b">
+        Merupakan na’at yang menyifati kalimah السَّيِّدُyang beri’rob jer karena kalimah tersebut merupakan susunan idhofah dengan alamat jernya’nya yaitu kasroh. Maka cara membacanya “
+         <sup> ن</sup>
+        نَاصِرُ الدّيْنِ
+        kang nulungi agomo (yang menjadi penolong agama)”
+
+    </string>
+    <string name="aa33d">
+        Merupakan maf’ul bih dari kalimah sebelumnya yang beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> مف</sup>
+        كِتَابًا
+         ing kitab (kitab)”
+
+    </string>
+    <string name="aa33e">
+        Merupakan dzorof zaman mubham yang menunjukan makna kalimah tersebut tidak terikat waktu tertentu. Kalimah tersebut juga merupakan bentuk jamak خلق . kalimah tersebut beri’rob jer karena kemasukan amil jer berupa huruf فِيْ .dengan alamat jernya yaitu kasroh maka cara membacanya “
+         <sup> ظز</sup>
+        فِيْ
+        <sub> ج</sub>
+        الْأَخْلَاقِ
+        ingdalem nerangaken budi pekerti (dalam menerangkan budi pekerti)”
+
+    </string>
+    <string name="aa33g">
+        Merupakan shifat  dari Syaikh Syahid yang beri’rob nasob karena mengikuti ma’thuf a’laihnya, dengan alamat nasobnya yaitu fathah. maka cara membacanya “
+         <sup> ص</sup>
+        صَنَّفَ
+         kang nganggit sopo syaikh syahid”
+
+    </string>
+    <string name="aa33h">
+        Merupakan kalimah jawab dari kalimah sebelumnya maksudnya makna kalimah tersebut menjadi jawaban dari kalimah sebelumnya. Kalimah tersebut  beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ج</sup>
+        فَيَجِبُ
+        mongko wajib (maka wajib)”
+
+    </string>
+
+
+
+<!--    34-->
+    <string name="aa34a">
+        Merupakan fail ghoiru aql (tidak memiliki akal) dari kalimah sebelumnya yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Kalimah tersebut bersambung dengan dlomir هَا yang merujuk pada الْأَخْلَاقِ . maka cara membacanya “ opo
+         <sup> ف</sup>
+        حِفْظُهَا
+        ngerekso akhlak (menjada akhlak )
+
+    </string>
+    <string name="aa34c">
+        Merupakan mubtada’ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         وَ
+        <sup> م</sup>
+        اَمَّا حِفْظُ
+        lan anapun utawi ngerekso (adapun menjaga)”
+
+    </string>
+    <string name="aa34d">
+        Merupakan shifat dari kalimah sebelumnya maksudnya kalimah tersebut maknanya menyifati makna kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         مَا
+         <sup> ص</sup>
+        يَقَعُ
+        kang tumibo opo مَا”
+
+    </string>
+    <string name="aa34e">
+        Merupakan dzorof zaman mubham yang menunjukan makna kalimah tersebut tidak terikat waktu tertentu. Kalimah tersebut juga merupakan bentuk jamak احيان . kalimah tersebut beri’rob jer karena kemasukan amil jer berupa huruf فِيْ .dengan alamat jernya yaitu kasroh maka cara membacanya “
+         <sup> ظ</sup>
+        فِي بَعْضِ
+        <sub> ج</sub>
+        الْاَحَايِيْنِ
+        ingdalem setengahe piro-piro mongso (dalam setengahnya masa-masa)”
+
+    </string>
+    <string name="aa34f">
+        Merupakan khobarnya mubtada’ yang beri’rob rofa’ dengan alamat rofanya yaitu dlomah. Kalimah tersebut juga merupakan jawab dari kalimah sebelumnya maksudnya makna kalimah tersebut memberikan jawaban dari makna kalimah sebelumnya. Maka cara membacanya “
+         <sup> ج خ</sup>
+        فَفَرْضٌ
+         mongko iku ferdu (maka menjadi fardhu”
+
+    </string>
+
+
+<!--    35-->
+    <string name="aa35a">
+        Merupakan maf’ul mutlak yang menjelaskan kembali dlomir ﻪ yang merujuk pada kalimah الْكِفَايَةِ . kalimah tersebut beri’rob jer karena huruf بِ dalam kalimah tersebut merupakan huruf jer, maka alamat jernya yaitu kasroh. Adapun cara membacanya “
+        <sup>  مط</sup>
+        بِهِ
+        kelawan ferdhu kifayah (fardhu kifayah)”
+
+    </string>
+    <string name="aa35b">
+        Merupakan fail dari kalimah sebelumnya yang beri’rob jer karena amil jer dari kalimah sebelumnya berupa huruf بِ dengan alamat jernya yaitu kasroh. Maka cara membacanya “sopo
+         <sup> ف</sup>
+        الْبَعْضِ
+        sebagian”
+
+    </string>
+    <string name="aa35c">
+        Merupakan dzorof makan, maksudnya kalimah tersebut memiliki makna yang menunjukkan tempat (keterangan tempat). Huruf فِي dalam kalimah tersebbut merupakan huruf jer sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ظم</sup>
+        فِي بَلْدَةٍ
+        ingdalem negoro (dalam negara)”
+
+    </string>
+    <string name="aa35d">
+        Merupakan jawab bagi kalimah sebelumnya, maksudnya makna kalimah tersebut menunjukkan makna jawaban dari kalimah sebelumnya. Maka cara membacanya “
+         <sup> ج</sup>
+        سَقَطَ
+        mongko gugur opo fardhu kifayah (maka gugur hukum fardhu kifayahnya”
+
+    </string>
+    <string name="aa35f">
+        Merupakan jawab namun sebagai pembuka kalimah atau mubtada’ namun dalam pemberian makna masih tetap menggunakan kata “mongko” walaupun sebagai mubtada’. Kalimah tersebut beri’rob jazem karena kemasukan amil jawazim berupa لَمْ dengan alamat jazemnya yaitu sukun. Maka cara membacanya “
+         <sup> ج</sup>
+        فَاِنْ لَمْ يَكُنْ
+        mongko lamun ora ono (maka jika tidak ada)”
+
+    </string>
+    <string name="aa35g">
+        Merupakan khobarnya mubtada’ yang beri’rob jer karena masuknya amil jer berupa فِىْ dengan alamat jernya yaitu kasroh. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        فِىْ الْبلدَةِ
+        ingdalem negoro (dalam negara)”
+
+    </string>
+    <string name="aa35h">
+        Merupakan fail (yang mimiliki akal) dari kalimah sebelumnya. Maka cara membacanya “ sopo
+         <sup> فا</sup>
+        مَنْ
+        wong”
+
+    </string>
+    <string name="aa35i">
+        Merupakan shifat yang menyifati kalimah sebelumnya. Yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ص</sup>
+        يَقُوْمٌ
+         kang jumeneng (mendirikan/menjalankan)”
+
+    </string>
+    <string name="aa35j">
+        Merupakan maf’ul mutlak yang menjelaskan kembali dlomir ﻪ yang merujuk pada kalimah الْكِفَايَةِ . kalimah tersebut beri’rob jer karena huruf بِ dalam kalimah tersebut merupakan huruf jer, maka alamat jernya yaitu kasroh. Adapun cara membacanya “
+         <sup> مط</sup>
+        بِهِ
+        kelawan ferdhu kifayah (fardhu kifayah)”
+
+    </string>
+
+
+<!--    36-->
+    <string name="aa36a">
+        Merupakan jawab dari kalimah sebelumnya yang beri’rob rofa’ dengan alamat rofa’nya yaitu و . maka cara membacanya “
+         <sup> ج</sup>
+        اِشْتَرَكُوْا
+        mongko podo sekuthon sopo wong kabeh ”
+
+    </string>
+    <string name="aa36b">
+        Merupakan khal dari kalimah sebelumnya. Maksudnya makna kalimah tersebut menerangkan keadaan dari kalimah sebelunya. Kalimah tersebut beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> حا</sup>
+        جَمِيْعًا
+        khale kabeh (semua)”
+
+    </string>
+    <string name="aa36c">
+        Merupakan dzorof zaman mubham yang maknanya tidak terikat pada satu waktu. Kalimah tersebut beri’rob jer karena masuknya amil jer  berupa فِىْ dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ظز</sup>
+        فِىْ الْمَأْثَمِ
+        ingdalem dusane (dalam dosanya)”
+
+    </string>
+    <string name="aa36d">
+        Merupakan jawab untuk kalimah sebelumnya yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ج</sup>
+        فَيَجِبُ
+        mongko wajib (maka wajib)”
+
+    </string>
+    <string name="aa36f">
+        Merupakan fail dari kalimah sebelumnya, kalimah tersebut beri’rob nasob karena masuknya amil nasob berupa اَنْ dengan alamat nasobnya yaitu fathah. Kalimah tersebut bersambung dengan dlomir هُمْ yang merujuk pada اهل البلاد. Maka cara membacanya “ opo
+         <sup> ف</sup>
+        اَنْ يَأْمِرَهُمْ
+        yento perintah sopo imam ing ahli negara(ketika imam memerintah kepada penduduk negara)”
+
+    </string>
+    <string name="aa36g">
+        Merupakan maful mutlak yang memberikan penjelasan untuk kalimah sebelumnya. Maka cara membacanya “
+         <sup> مط</sup>
+        بِذَلِكَ
+         kelawan mengkunu-mengkununu ninda’aken ferdu kifayah”
+
+    </string>
+
+<!--    37-->
+    <string name="aa37a">
+        Merupakan dzorof zaman mubham, maksudnya makna kalimah tersebut tidak terikat pada satu waktu tertentu. susunan Kalimah tersebut beri’rob jer karena masuknya amil jer berupa فِىْ dengan alamat jernya yaitu kasroh. Kaliamah الْأَحْوَالِ merupakan jamak dari حالِ Maka cara membacanya “
+         <sup> ظز</sup>
+        فِىْ جَمِيْعِ
+        <sub> ج</sub>
+        الْأَحْوَالِ
+        ingdalem sekabehe piro-piro tingkah (dalam semua keadaan)”
+
+    </string>
+    <string name="aa37b">
+        Merupakan khobar serta maf’ul mutlak yang memberikan penejelasan bagi kalimah sebelumnya. Kalimah tersebut beri’rob jer karena masknya amil jer berupa بِ dengan alamat jernya yaitu kasroh. Maka cara membacanya “ iku
+         <sup> خ مط</sup>
+        بِمَنْزِلَةِ الطَّعَامِ
+         kelawan nganggu-ngangguni panggonane panganan”
+
+    </string>
+    <string name="aa37c">
+        Merupaka na’at yang menyifati kalimah sebelumnya yang beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ن</sup>
+        لَابُدَّ لِكُلِّ وَاحِدٍ
+        wajib keduwe saben-saben wong suwiji (wajib bagi semua orang)”
+
+    </string>
+    <string name="aa37e">
+        Merupakan shifat bagi kalimah sebelumnya. Yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ص</sup>
+        يَقَعُ
+        kang tumibo opo مَا”
+
+    </string>
+    <string name="aa37f">
+        Merupakan dzorof zaman, maksudnya makna kalimah tersebut tidak terikat pada satu waktu tertentu. Kalimah tersbut beri’rob jer karena masuknya amil jer berupa huruf فِيْ dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ظز</sup>
+        فِيْ بَعْضِ
+        <sub> ج</sub>
+        الْاَحَايِيْنِ
+        ingdalem setengahe piro-piro mongso”
+
+    </string>
+
+
+<!--    38-->
+    <string name="aa38a">
+        Merupakan mubtada serta maf’ul mutlak yang memberikan penejelasan bagi kalimah sebelumnya. Kalimah tersebut beri’rob jer karena masknya amil jer berupa بِ dengan alamat jernya yaitu kasroh. Maka cara membacanya “ iku
+         <sup> خ مط</sup>
+        بِمَنْزِلَةِ الدَّوَاءِ
+        kelawan nganggu-ngangguni panggonane tombo”
+
+    </string>
+    <string name="aa38b">
+        Merupakan na’at yang menyifati من, beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ن</sup>
+        يَحْتَاجُ
+        butuh sopo من”
+
+    </string>
+    <string name="aa38c">
+        Merupakan ikhtishoh atau pengkhususan maksudnya makna kalimah tersebut menunjukan pengkhususan dari kalimah sebelumnya. Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Dlomir ﻪ dalam kalimah tersebut merujuk pada الدَّوَاءِ maka cara membacanya “
+         <sup> ن</sup>
+        يَحْتَاجُ
+        maring tombo (الدَّوَاءِ)”
+
+    </string>
+    <string name="aa38d">
+        Merupakan dzorof zaman mubham, maksudnya makna kalimah tersebut tidak terikat pada satu waktu tertentu. susunan Kalimah tersebut beri’rob jer karena masuknya amil jer berupa فِىْ dengan alamat jernya yaitu kasroh. Kaliamah الِأَوْقَاتِ merupakan jamak dari الوقت Maka cara membacanya “
+         <sup> ظز</sup>
+        فِيْ بَعْضِ
+        <sub> ج</sub>
+        الِأَوْقَاتِ
+        ingdalem setengahe piro-piro wektu (dalam setengahnya waktu )”
+
+    </string>
+
+
+
+<!--   39 -->
+    <string name="aa39a">
+        Merupakan khobar muqoddam (khobar yang terletak sebelum mubtada’) serta maf’ul mutlak yang memberikan penejelasan bagi kalimah sebelumnya. Kalimah tersebut beri’rob jer karena masknya amil jer berupa بِ dengan alamat jernya yaitu kasroh. Maka cara membacanya “ iku
+         <sup> خ مط</sup>
+        بِمَنْزِلَةِ الْمَرَضِ
+        kelawan nganggu-ngangguni panggonane loro”
+
+    </string>
+    <string name="aa39b">
+        Merupakan jawab untuk kalimah sebelumnya maksudnya kalimah tersebut bermakna memberikan jawaban terhadap kalimah sebelumnya. Kalimah tersebut juga merupakan mubtada’. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Dlomir ﻪ dalam kalimah tersebut merujuk pada kalimah عِلْمَ النُّجُوْمِ . maka cara membacanya “
+         <sup> ج م</sup>
+        فَتَعَلُّمُهُ
+        mongko utawi ngaji ilmu nujum (belajar ilmu nujum / perbintangan)”
+
+    </string>
+    <string name="aa39c">
+        Merupakan khobar dari kalimah sebelumnya yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “iku
+         <sup> خ</sup>
+        حَرَامٌ
+         harom (haram)”
+
+    </string>
+    <string name="aa39e">
+        Merupakan khobarnya اِنَّ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah maka cara membacanya “iku
+         <sup> خ</sup>
+        يَضُرُّ
+        bahayani opo ilmu nujum (itu membahayakan)”
+
+    </string>
+    <string name="aa39f">
+        Merupakan kalimah nafi (penolakan atau maknanya menunjukkan makna tidak) hal itu ditunjukkan dengan adanya huruf nafi berupa . maka cara membacanya “
+         وَ
+        <sup> نف</sup>
+        لَا يَنْفَعُ
+        lan ora manfaati opo ilmu nujum (tidak memberi manfat)”
+
+    </string>
+    <string name="aa39g">
+        Merupakan mubtada’ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         وَ
+        <sup> م</sup>
+        الْهَرَبُ
+        utawi melayu (berlari)”
+
+    </string>
+    <string name="aa39i">
+        Merupakan khal atau keadaan maksudnya kalimah tersebut memiliki makna yang menunjukkan keadaan dari kalimah sebelumnya. Maka cara membacanya “
+         <sup> حا</sup>
+        تَعَالَى
+        khale moho luhur sinten Allah (yang maha luhur)”
+
+    </string>
+
+
+<!--    40-->
+    <string name="aa40b">
+        Merupakan khobarnya mubtada’ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “iku
+         <sup> خ</sup>
+        غَيْرَ مُمْكِنٍ
+        ora kongang (tidak bisa)”
+
+    </string>
+    <string name="aa40d">
+        Merupakan kalimah atau فَ jawab dari susunan kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah yang dikira-kirakan karena kalimah tersebut merupakan fi’il mudlori’ mu’tal akhir (fi’il mudlori yang diakhiri dengan huruf illat berupa ى maka cara membacanya “
+         <sup> ج</sup>
+        فَيَنْبَغِىْ
+        mongko sayokjo (maka layak)”
+
+    </string>
+    <string name="aa40e">
+        Merupakan fail ghoiru aql (yang tidak memiliki akal) yang beri’rob nasob karena masuknya amil nawasib berupa اَن dengan alamat nasobnya yaitu fathah. Maka cara membacanya “ opo
+         <sup> ف</sup>
+        اَنْيَسْتَغِلَ
+        yento ketungkul sopo muslim (terlena)”
+
+    </string>
+    <string name="aa40f">
+        Merupkan dzorof zaman mubham, maksudnya makna kalimah tersebut tidak menunjukkan atau terikat pada satu waktu tertentu. Kalimah tersebut beri’rob jer karena masuknya amil jer berupa huruf فِىْ dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ظز</sup>
+        فِىْ جَمِيْعِ جاَوْقَاتِهِ
+        ingdalem sekabehe piro-piro wektu (dalam semua waktu)”
+
+    </string>
+    <string name="aa40g">
+        Merupakan maf’ul mutlak maksdunya kalimah tersebut ada atau digunakan untuk menguatkan fi’il (susunan kalimah sebelumnya). Kalimah tersebut beri’rob jer karena masuknya amil jer berupa huruf بِ dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> مط</sup>
+        بِذِكْرِ اللهِ
+        kelawan dzikir iling ing Allah (dengan berdzikir mengingat Allah)”
+
+    </string>
+    <string name="aa40h">
+        Merupakan khal atau keadaan maksudnya kalimah tersebut memiliki makna yang menunjukkan keadaan dari kalimah sebelumnya. Maka cara membacanya “
+         <sup> حا</sup>
+        تَعَالَى
+        khale moho luhur sinten Allah (yang maha luhur)”
+
+    </string>
+
+
+
+<!--    41-->
+    <string name="aa41b">
+        Merupakan na’at bagi kalimah sebelumnya, maksudnya kalimah tersebut  maknanya menyifati makna kalimah sebelumnya. Kalimah tersebut beri’rob jer karena kedudukannya sebagai mudhof ilaih dari kalimah sebelumnya. Dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ن</sup>
+        الدَّافِعَتِ
+        kang manfaati (yang bermanfaat)”
+
+    </string>
+    <string name="aa41c">
+        Merupakan ikhtishos (pengkhususan) maksudnya makna kalimah tersebut menunjukan pengkhususan sebagai keterangan dari kalimah sebelumnya. Kalimah tersebut beri’rob jer karena masuknya amil jer berupa huruf لِ dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ما</sup>
+        لِلْبَلَاءِ
+        maring balak (bahaya/cobaan)”
+
+    </string>
+    <string name="aa41e">
+        Merupakan maf’ul bih yang beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> مف</sup>
+        اللَّهَ
+        ing Allah (pada Allah)”
+
+    </string>
+    <string name="aa41f">
+        Merupakan khal atau keadaan maksudnya kalimah tersebut memiliki makna yang menunjukkan keadaan dari kalimah sebelumnya. Maka cara membacanya “
+         <sup> حا</sup>
+        تَعَالَى
+        khale moho luhur sinten Allah (yang maha luhur)”
+
+    </string>
+    <string name="aa41g">
+        Merupakan maf’ul bih yang beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> مف</sup>
+        الْعَفْوَ وَالْعَافِيَةَ
+        ing pangapura lan selamet (pengampunan dan keselamatan)”
+
+    </string>
+
+
+
+<!--    42-->
+    <string name="aa42b">
+        Merupakan dzorof makan, maksdunya makna kalimat tersebut memberikan keterangan tempat bagi kalimah sebelumnya. Maka cara membacanya “
+         <sup> ظم</sup>
+        فِى الدُّنْيَا
+        ingdalem dunyo (dalam dunia)
+
+    </string>
+    <string name="aa42d">
+        Merupakan khal atau keadaan maksudnya kalimah tersebut memiliki makna yang menunjukkan keadaan dari kalimah sebelumnya. Maka cara membacanya
+         <sup> حا</sup>
+        تَعَالَى
+        khale moho luhur sinten Allah (yang maha luhur)”
+
+    </string>
+
+
+
+<!--    43-->
+    <string name="aa43a">
+         Merupakan shifat, maksudnya makna kalimah tersebut memberikan shifat atau menyifati kalimah sebelumnya. Selain itu dai juga berkedudukan sebagai khobarnya اِنَّ Beri’rob nasob dengan alamat nasobnya yaitu fathah, maka cara membacanya “
+         <sup> ص</sup>
+        رُزِقَ
+        kang dirizqini”
+    </string>
+    <string name="aa43b">
+       Merupakan mafu’ bih yang beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> مف</sup>
+        الدُّعَاءَ
+        ing kalam du’a (dalam kalam doa’)”
+
+    </string>
+    <string name="aa43c">
+         Merupakan jawab dari kalimah sebelumnya. Maksudnya makna kalimah tersebut memberikan jawaban dari masalah atau penjelasan kalimah sebelumnya. Kalimat tersebut juga memiliki makna nafi’ atau penolakan (tidak). Maka cara membacanya “
+         <sup> ج نف</sup>
+        لَمْ يُحْرَمِ
+        mongko ora di aling-alingi (maka tidak dihalang-halangi)”
+
+    </string>
+    <string name="aa43d">
+        Merupakan maf’ul bih yang beri’rob nasob dengan alamat nasobnya yaitu fathah, maka cara membacanya “
+         <sup> مف</sup>
+        الْإِجَابَةَ
+         ing di ijabahi (dikabulkan)”
+
+    </string>
+    <string name="aa43e">
+        Merupakan jawab bagi kalimah sebelumnya, maksudnya makna kalimah tersebut menjadi jawababn penjelasan dari kalimah sebelumnya. Kalimah tersebut beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka  cara membacanya “
+         <sup> ج</sup>
+        فَاِنْ كَانَ
+        mongko lamun ono (maka jika ada)”
+
+    </string>
+    <string name="aa43f">
+        Merupakan fai’ ghoiru aql (yang tidak memiliki akal) dari kalimah sebelumnya yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “opo
+         <sup> ف</sup>
+        الْبَلَاءُ
+        bala’ (bahaya)”
+
+    </string>
+    <string name="aa43g">
+        Merupakan khobarnya كَانَ yang beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        مُقَدَّرًا
+        pesti (pasti)”
+
+    </string>
+    <string name="aa43h">
+        Merupakan kalimah jawab, maksudnya makna kalimah tersebut merupakan jawaban dari masalah atau penjelasan dari susunan kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Dlomir ﻪ dalam kalimah tersebut merujuk pada مَنْ maka cara membacanya “
+         <sup> ج</sup>
+        يُصِيْبُهُ
+        mongko mekenani opo bala’ ing مَنْ (wong)
+
+
+    </string>
+    <string name="aa43i">
+        Merupakan khal atau keadaan maksudnya kalimah tersebut memiliki makna yang menunjukkan keadaan dari kalimah sebelumnya. Maka cara membacanya “
+         <sup> حا</sup>
+        لَا مَحَالَةَ
+         khale mesti (sudah pasti)”
+
+    </string>
+
+
+
+<!--    44-->
+    <string name="aa44a">
+        Merupakan fail yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “sinten
+         <sup> فا</sup>
+        اللّهُ
+        Allah”
+
+    </string>
+    <string name="aa44c">
+        Merupakan maf’ul bih yang beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> مف</sup>
+        الصَّبْرَ
+        ing sobar (sabar)”
+
+    </string>
+    <string name="aa44f">
+        Merupakan sebab, maksudnya kalimah tersebut menjelaskan sebab dari terjadinya sesuatu (yangsudah dijelaskan kalimah sebelumnya). Huruf بِ dalam kalimah tersebut merupakan huruf jer sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> س</sup>
+        بِبَرَكَةِ
+        sebab barokah (sebab berkah)”
+
+    </string>
+
+
+<!--    45-->
+    <string name="aa45a">
+        Merupakan maf’ul bih yang beri’rob nasob dengan alamat nasobnya yaitu fathah maka cara membacanya “
+         <sup> مف</sup>
+        قَدْرَمَا
+         ing kira-kirani barang”
+
+    </string>
+    <string name="aa45b">
+        Merupakan shifat dari kalimah sebelumnya maksudnya makna kalimah tersbut menyifati kaliamah sebelumnya, kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ص</sup>
+        يَعْرْفُ
+         kang ngaweruhi (yang memberi tahu)”
+
+    </string>
+    <string name="aa45c">
+        Merupakan maf’ul mutlak yang menjelaskan kembali dlomir ﻪ yang merujuk pada kalimah مَنْ. kalimah tersebut beri’rob jer karena huruf بِ dalam kalimah tersebut merupakan huruf jer, maka alamat jernya yaitu kasroh. Adapun cara membacanya “
+         <sup> مط</sup>
+        بِهِ
+        kelawan مَنْ wong”
+
+    </string>
+    <string name="aa45d">
+        Merupakan maf’ul bih yang beri’rob nasob dengan alamat nasobnya yaitu fathah maka cara membacanya “
+         <sup> مف</sup>
+        الْقِبْلَةَ
+        ing kiblat”
+
+    </string>
+    <string name="aa45f">
+        Merupakan kalimah yang berbentuk jamak (bermakna banyak lebih dari 3), sedangkan bentuk mufrodnya yaitu وَقْتُ kalimah tersebut beri’rob jer karena merupakan ma’thuf yang mengikuti ma’thuf ‘alaihnya dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+        وَ
+        <sub> ج</sub>
+        اَوْقَاتِ الصَّلَاةِ
+        lan piro-piro wektu sholat”
+
+    </string>
+    <string name="aa45g">
+        Merupakan jawab dari kalimah sebelumnya, maksdunya kalimah tersebut menjadi jawab dari permasalahan atau penejelasan dari susunan kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ج</sup>
+        فَيَجُوْزُ
+        mongko wenang (maka diperbolehkan)”
+
+    </string>
+    <string name="aa45i">
+        Merupakan mubtada’ atau permulaan jumlah (kalimat) yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         وَ
+        <sup> م</sup>
+        اَمَّا تَعَلُّمُ عِلْمِ الطِّبِّ
+        lan anapun utawi sinau ilmu kedokteran (dan belajar ilmu kedokteran)”
+
+    </string>
+
+
+<!--    46-->
+    <string name="aa46a">
+        Merupakan khobarnya mubtada’ sekaligus sebagai jawab dari kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah, maka cara membacanya “
+         <sup> خ ج</sup>
+        فَيَجُوْزُ
+         mongko iku wenang opo ilmu kedokteran (maka diperbolehkan)
+
+    </string>
+    <string name="aa46c">
+        Merupakan bentuk jamak (kalimah yang bermakna banyak atau lebih dari tiga) sedangkan bentuk mufrodnya yaitu سَبَبِ kalimah tersebut beri’rob jer karena masuknya amil jer berupa مِنَ dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         مِنَ
+        <sub> ج</sub>
+        الْأَسْبَابِ
+        setengah saking piro-piro sebab”
+
+    </string>
+    <string name="aa46d">
+        Merupakan jawab dari kalimah sebelumnya, maksdunya kalimah tersebut menjadi jawab dari permasalahan atau penejelasan dari susunan kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ج</sup>
+        فَيَجُوْزُ
+        mongko wenang (maka diperbolehkan)”
+
+    </string>
+    <string name="aa46f">
+        Merupakan fail (yang memiliki akal) atau pelaku dari suatu fi’il (pekerjaan) yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “sinten
+         <sup> فا</sup>
+        النَّبِيُّ .ص.م.
+        Nabi Muhammad Saw.”
+        ]]>
+
+    </string>
+
+
+
+<!--    47-->
+    <string name="aa47b">
+        Merupakan kalimah yang menunjukkan makna mendo’akan. Maka cara membacanya “
+         <sup> د</sup>
+        رَحِمَهُ
+        mugo-mugo paring rohmat ﻪ ing الشَّافِعِىِّ”
+
+    </string>
+    <string name="aa47c">
+        Merupakan fa’il dari kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya  “ sinten
+         <sup> فا</sup>
+        اللّهُ
+        Allah”
+
+    </string>
+    <string name="aa47d">
+        Merupakan khal atau kalimah yang memiliki makna menjelaskan keadaan dari kalimah sebelumnya. Maka cara membacanya “
+         <sup> حا</sup>
+        تَعَالَى
+        khale moho luhur sinten Allah (Allah yang maha luhur)”
+
+    </string>
+    <string name="aa47f">
+        Merupakan khobarnya انَّ yang beri’rob nasob dengan alamat nasobnya yaitu fathah maka cara membacanya “iku
+         <sup> خ</sup>
+        قَالَ
+        ngendikan sinten imam syafi’i”
+
+    </string>
+    <string name="aa47h">
+        Merupakan mubtada’ sekaligus badal dari perkata’annya Imam Syafi’i, kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> بد م</sup>
+        العِلْمُ
+        utawi ilmu (ilmu)”
+
+    </string>
+    <string name="aa47i">
+        Merupakan khobarnya mubtada’ (kalimah sebelumnya) yang beri’rob rofa’ dengan alamat rofa’nya yaitu alif karena isim tasniyah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        عِلْمَانِ
+         mung loro (itu ada 2)
+
+    </string>
+    <string name="aa47j">
+        Merupakan badal dari kalimah sebelumnya, maksdunya kalimah tersebut merupakan lafadz yang mengikitu lafadz sebelumnya sebagai penjelasan pengganti. Kalimah tersebut beri’rob jer karena m erupakan susunan idhofah dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> بد</sup>
+        عِلْمُ الْفِقْهِ
+         rupane ilmu fiqih (yaitu ilmu fiqih)”
+
+    </string>
+
+
+
+<!--    48-->
+    <string name="aa48a">
+        Merupakan ta’lil maksudnya kalimah tersebut menjelaskan alasan dari kalimah sebelumnya. Huruf لِ dalam kalimah tersebut merupakan huruf jer sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ع</sup>
+        لِلْأَدْيَانِ
+        kerono kanggo ngerteni ilmu agomo (karena untuk belajar ilmu agama)”
+
+    </string>
+    <string name="aa48c">
+        Merupakan ta’lil maksudnya kalimah tersebut menjelaskan alasan dari kalimah sebelumnya. Huruf لِ dalam kalimah tersebut merupakan huruf jer sehingga kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ع</sup>
+        لِلْأَبْدَانِ
+        kerono kanggo ngerteni badan (karena untuk belajar tentang badan)”
+
+    </string>
+    <string name="aa48d">
+        Merupakan mubtada’ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah yang dikira-kirakan. Maka cara membacanya “
+         وَ
+        <sup> م</sup>
+        مَا وَرَاءَ
+         utawi barang sakliane (atau yang lainnya)”
+
+    </string>
+    <string name="aa48f">
+        Merupakan khobarnya mubtada’ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> خ</sup>
+        بُلْغَةُ مَجْلِسٍ
+        iku sangune palungguhan ”
+
+    </string>
+    <string name="aa48h">
+        Merupakan mubtada’ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         وَ
+        <sup> م</sup>
+        اَمَّا تَفْسِيْرُ الْعِلْمِ
+        lan anapun utawi tafsire ilmu (dan adapun tafsirnya ilmu)”
+
+    </string>
+
+
+<!--    49-->
+    <string name="aa49a">
+        Merupakan mubtada’ yang berbentuk dlomir yang merujuk pada kalimah الْعِلْمِ, sekaligus menjadi kalimah jawab untuk keterangan atau penjelasan dari kalimah sebelumnya. Maka cara membacanya “
+         <sup> خ ج م</sup>
+        فَهُوَ
+        mongko iku utawi ilmu (maka ilmu adalah)
+
+    </string>
+    <string name="aa49b">
+        Merupakan khobarnya mubtada’ yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “iku
+         <sup> خ</sup>
+        صِفَةٌ
+        sifat (sifat)”
+
+    </string>
+    <string name="aa49c">
+        Merupakan na’at yang menyifati kalimah sebelumnya (man’ut), na’at selalu mengikuti man’ut dalam hal apapun baik dalam I’rob maupun bentuknya (ma’rifat/nakiroh). Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah yang dikira-kirakan karena merupakan fi’il muflori’ mu’tal akhir (fi’il mudlori yang diakhiri dengan huruf ilat ا و ي  ) maka cara membacanya “
+         <sup> ن</sup>
+        يَتَجَلَّى
+        kang dadi pertelo (yang menjadi jelas)”
+
+    </string>
+    <string name="aa49d">
+        Merupakan maf’ul mutlak yang berguna untuk memperkuat kembali fi’il (kalimah sebeumnya), kalimah tersebut bersambung dengan dlomir هَا yang merujuk pada صِفَةٌ. maka cara membacanya “
+         <sup> مط</sup>
+        بِهَا
+        kelawan shifat (dengan sifat)”
+
+    </string>
+    <string name="aa49f">
+        Merupakan shifat yang maknanya menyifati kalimah sebelumnya. I’rob kalimah tersebut mengikuti kalimah sebelumnya karena berkedudukan sebagai na’at yang mengikuti man’ut. Maka cara membacanya “
+         <sup> ص</sup>
+        قَامَتْ
+        kang jumeneng opo shifat (yang berdiri)
+
+    </string>
+    <string name="aa49h">
+        Merupakan maf’ul mutlak yang berguna untuk memperkuat kembali fi’il (kalimah sebeumnya). Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh, kalimah tersebut bersambung dengan dlomir ﻪ yang merujuk pada مَنْ. maka cara “
+         <sup> مط</sup>
+        بِهِ
+        kelawan مَنْ (wong) ”
+
+    </string>
+    <string name="aa49i">
+        Merupakan fa’il ghoiru aql (yang tidak memiliki akal) yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “opo
+         <sup> ف</sup>
+        الْمَذْكُوْرُ
+        perkoro kang den tutur (perkara yang dijelaskan)”
+
+    </string>
+    <string name="aa49j">
+        Merupakan mubtada’ atau permulaan jumlah (kalimat) yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         وَ
+        <sup> م</sup>
+        الْفِقْهُ
+        utawi ilmu fiqih (ilmu fiqih)”
+
+    </string>
+    <string name="aa49k">
+        Merupakan khobarya mubtada’, maksudnya kalimah tersebut memberikan keterangan yang lebih jelas atas mubtada’. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “iku
+         <sup> خ</sup>
+        مَعْرِفَةُ
+        ngaweruhi (mengetahui)”
+
+    </string>
+    <string name="aa49l">
+        Merupakan kalimah yang berbentuk jamak (memiliki makna lebih dari tiga) yang dalam pembaca’an kitab kuning diartikan dengan piro-piro. Adapun bentuk mufrod kalimah ter sebut yaitu دَقِيْقٌ kalimah tersebut beri’rob jer karena merupakan susunan idhofah dengan alamat jernya yaitu kasroh. Maka cara membacanya
+         <sub> ج</sub>
+        دَقَائِقِ الْعِلْمِ
+        piro-piro lembute ilmu"
+
+    </string>
+
+
+<!--    50-->
+    <string name="aa50b">
+        Merupakan fail (yang memiliki akal) bagi kalimah sebelumnya, kalimah tersebut beri’rob jer karena merupakan susunan idhofah dengan alamat jernya yaitu fathah karena isim ghoiru munshorif. Maka cara membacanya “
+         <sup> فا</sup>
+        اَبُو حَنِيْفَةَ
+        sopo abu hanifah”
+
+    </string>
+    <string name="aa50c">
+        Merupakan kalimah yang menunjukkan makna mendo’akan. Maka cara membacanya “
+         <sup> د</sup>
+        رَحْمَةُ
+        mugo-mugo paring rohmat ﻪ ing اَبُو حَنِيْفَةَ”
+
+    </string>
+    <string name="aa50d">
+        Merupakan fa’il dari kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya  “ sinten
+         <sup> فا</sup>
+        اللّهُ
+        Allah”
+
+    </string>
+    <string name="aa50f">
+        Merupakan mubtada’ atau sebagai pembuka jumlah (kalimat) yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> م</sup>
+        الفِقْهُ
+        utawi ilmu fiqih (ilmu fiqih)”
+
+    </string>
+    <string name="aa50g">
+        Merupakan khobar atau kalimah yang memberikan keterangan lanjutan dari mubtada’ yang beri’rob jer karena berbebntuk susunan idhofah dengan alamat jernya yaitu kasroh. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        مَعْرِفَةُ النَّفْسِ
+        ngaweruhi awak (mengetahui diri sendiri)”
+
+    </string>
+    <string name="aa50h">
+        Merupakan maf’ul bih maksdunya sebagai kata pelengkap dari susunan mubtada’ dan khobar sebelumnya. Maka cara membacanya “
+         <sup> مف</sup>
+        مَا
+        ing barang”
+
+    </string>
+    <string name="aa50j">
+        Merupakan shifat untuk kalimah sebelumnya kalimah tersebut bersambung dengan dlomir هَا yang merujuk pada النَّفْسِ maka cara membacanya “
+         <sup> ص</sup>
+        عَلَيْهَا
+        kang melarati ing النَّفْسِ”
+
+    </string>
+    <string name="aa50l">
+        Berkedudukan sebagai mubtada’ atau permulaan kalimat, selain itu dia juga bertindak sebagai badal bagi penjelasan kalimah sebelumnya. Dalam kalimah tersebut terdapat huruf nafi berupa yang menunjukkan makna kalimah tersebut negatif (tidak/jangan). Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> بد نف م</sup>
+        مَاالْعِلْمُ
+        ora ono utawi ilmu (tidak ada ilmu)”
+
+    </string>
+
+
+<!--    51-->
+    <string name="aa51a">
+        Merupakan khobarnya mubtada’ kalimah tersebut beri’rob jer karena masuknya amil jer berupa huruf لِ dengan alamat jernya yaitu kasroh. Maka cara membacanya
+         <sup> خ</sup>
+        اِلَّا لِلْعَمَلِ
+        anging iku kerono ngelakoni (karena melakukan)”
+
+    </string>
+    <string name="aa51b">
+        Kalimah tersebut bukan maf’ul mutlak huruf بِ  didalamnya merupakan huruf jer namun maknanya sama untuk memperkuat. Huruf بِ dalam kalimah tersebut bersambung dengan dlomir muttasil ﻪ yang merujuk pada الْعِلْمُ. Maka cara membacanya
+         <sup> مط</sup>
+        بِهِ
+        “kelawan ilmu (dengan ilmu)”
+
+    </string>
+    <string name="aa51c">
+        Merupakan mubtada’ atau permulaan suatu jumlah atau kalimat yang beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         وَ
+        <sup> م</sup>
+        الْعَمَلُ
+        utawi amal (amal)”
+
+    </string>
+    <string name="aa51d">
+        Kalimah tersebut bukan maf’ul mutlak huruf بِ  didalamnya merupakan huruf jer namun maknanya sama untuk memperkuat. Huruf بِ dalam kalimah tersebut bersambung dengan dlomir muttasil ﻪ yang merujuk pada الْعِلْمُ. Maka cara membacanya
+         <sup> مط</sup>
+        بِهِ
+        “kelawan ilmu (dengan ilmu)”
+
+    </string>
+    <string name="aa51e">
+        Merupakan khobarnya mubatada’ atau kalimah yang memberikan keterangan dari kalimah pembuka. Kalimah tersebut beri’rob jer karena merupakan susunan idhofah dengan alamat jernya yaitu kasroh. Maka cara membacanya “iku
+         <sup> خ</sup>
+        تَرْكُ الْعَاجِلِ
+         ninggal perkoro dunyo”
+
+    </string>
+    <string name="aa51f">
+        Dalam kalimah tersebut terdapat huruf ta’lil berupa لِ yang menjelaskan alasan terjadinya sesuatu. Kalimah tersebut beri’rob jer dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ع</sup>
+        لِلْآجِلِ
+        kerono perkoro akhirat (karena perkara akhirat)”
+
+    </string>
+    <string name="aa51g">
+        Merupakan jawab bagi penjelasan atau permaslahan yang dijelaskan pada kalimah sebelumnya. Kalimah tersebut beri’rob rofa’, rofa’nya secara makhal, Maka cara membacanya “
+         <sup> ج</sup>
+        فَيَنْبَغِيْ
+        mongko sayokjo (maka layak)”
+
+    </string>
+    <string name="aa51i">
+        Merupakan fail bagi kalimah sebelumnya, sekaligus sebagai kalimah nafi’ (kalimah yang bermakna negatik/tidak) nafi dengan huruf لَا . kalimah tersebut beri’rob nasob karena ada لَا nafi’ dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> ف</sup>
+        اَنْ
+        <sup> نف</sup>
+        لَا يَفْعُلَ
+        opo yento ora lali sopo اِنْسَان (ketika tidak lupa)”
+
+    </string>
+
+
+<!--    52-->
+    <string name="aa51a"></string>
+    <string name="aa51b"></string>
+    <string name="aa51c"></string>
+    <string name="aa51d"></string>
+    <string name="aa51e"></string>
+    <string name="aa51f"></string>
+    <string name="aa51g"></string>
+    <string name="aa51h"></string>
+    <string name="aa51i"></string>
+
+
+<!--    53-->
+    <string name="aa51a"></string>
+    <string name="aa51b"></string>
+    <string name="aa51c"></string>
+    <string name="aa51d"></string>
+    <string name="aa51e"></string>
+    <string name="aa51f"></string>
+    <string name="aa51g"></string>
+    <string name="aa51h"></string>
+    <string name="aa51i"></string>
+
+
+<!--    54-->
+    <string name="aa51a"></string>
+    <string name="aa51b"></string>
+    <string name="aa51c"></string>
+    <string name="aa51d"></string>
+    <string name="aa51e"></string>
+    <string name="aa51f"></string>
+    <string name="aa51g"></string>
+    <string name="aa51h"></string>
+    <string name="aa51i"></string>
+
+
+<!--    55-->
+
+    <string name="aa51a"></string>
+    <string name="aa51b"></string>
+    <string name="aa51c"></string>
+    <string name="aa51d"></string>
+    <string name="aa51e"></string>
+    <string name="aa51f"></string>
+    <string name="aa51g"></string>
+    <string name="aa51h"></string>
+    <string name="aa51i"></string>
 
 
 </resources>
