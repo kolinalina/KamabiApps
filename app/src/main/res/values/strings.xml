@@ -2579,8 +2579,6 @@
          <sup> فا</sup>
         النَّبِيُّ .ص.م.
         Nabi Muhammad Saw.”
-        ]]>
-
     </string>
 
 
@@ -2874,52 +2872,157 @@
 
 
 <!--    52-->
-    <string name="aa51a"></string>
-    <string name="aa51b"></string>
-    <string name="aa51c"></string>
-    <string name="aa51d"></string>
-    <string name="aa51e"></string>
-    <string name="aa51f"></string>
-    <string name="aa51g"></string>
-    <string name="aa51h"></string>
-    <string name="aa51i"></string>
+
+    <string name="aa52b">
+        Merupakan shifat bagi kalimah sebelumnya, maksudnya kalimah tersebut memiliki makna yang menyifati kalimah sebelumnya. Kalimah tersebut bersambung dengan dlomir yang merujuk pada kalimah نَفْسِ . kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ص</sup>
+        يَنْفَعُهَا
+        kang manfaati opo مَا ing نَفْسِ (yang bermanfaat bagi diri seseorang)”
+
+    </string>
+    <string name="aa52d">
+        Merupakan shifat bagi kalimah sebelumnya, maksudnya kalimah tersebut memiliki makna yang menyifati kalimah sebelumnya. Kalimah tersebut bersambung dengan dlomir yang merujuk pada kalimah نَفْسِ . kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ص</sup>
+        يَضُرُّهَا
+        kang melarati opo مَا ing نَفْسِ (yang merugikan bagi diri seseorang)”
+
+    </string>
+    <string name="aa52e">
+        Merupakan dzorof makan, maksudnya makna kalimah tersebut menjelaskan atau menunjukkan keterangan tempat  untuk kalimah sebelumnya. Huruf فِيْ dalam kalimah tersebut merupakan huruf jer sehingga kalimah tersbut beri’rob jer dengan alamat jernya yaitu kasroh yang dikira-kirakan. Dlomir هَا pada kalimah tersebut merujuk pada kalimah نَفْسِ. Maka cara membacanya “
+         <sup> ظم</sup>
+        فِىْ اُولَاهَا
+        ingdalem dunyane نَفْسِ (dalam dunianya sendiri)”
+
+    </string>
+    <string name="aa52g">
+        Merupakan jawab bagi penjelasan atau permaslahan yang dijelaskan pada kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ج</sup>
+        فَيَسْتَجْلِبُ
+        mongko narik sopo اِنْسَان (maka menarik)”
+
+    </string>
+    <string name="aa52h">
+        Merupakan maf’ul bih atau kata pelengkap untuk susunan kalimat sebelumnya. Yang beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> مف</sup>
+        مَا
+        ing barang”
+
+    </string>
+    <string name="aa52i">
+        Merupakan shifat bagi kalimah sebelumnya, maksudnya kalimah tersebut memiliki makna yang menyifati kalimah sebelumnya. Kalimah tersebut bersambung dengan dlomir yang merujuk pada kalimah نَفْسِ . kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ص</sup>
+        يَنْفَعُهَا
+        kang manfaati opo مَا ing نَفْسِ (yang bermanfaat bagi diri seseorang)”
+
+    </string>
 
 
 <!--    53-->
-    <string name="aa51a"></string>
-    <string name="aa51b"></string>
-    <string name="aa51c"></string>
-    <string name="aa51d"></string>
-    <string name="aa51e"></string>
-    <string name="aa51f"></string>
-    <string name="aa51g"></string>
-    <string name="aa51h"></string>
-    <string name="aa51i"></string>
+    <string name="aa53a">
+        Merupakan shifat bagi kalimah sebelumnya, maksudnya kalimah tersebut memiliki makna yang menyifati kalimah sebelumnya. Kalimah tersebut bersambung dengan dlomir yang merujuk pada kalimah نَفْسِ . kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ص</sup>
+        يَضُرُّهَا
+         kang melarati opo مَا ing نَفْسِ (yang merugikan bagi diri seseorang)”
+
+    </string>
+    <string name="aa53c">
+        Merupakan fa’il (pelaku) bagi fi’il yang terdapat pada kalimah sebelumnya. Kalimah tersebut bersambung dengan dlomir ﻪ yang merujuk pada kalimah اِنْسَان . kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ opo
+         <sup> ف</sup>
+        عَقْلُهُ
+        akale اِنْسَان”
+
+    </string>
+    <string name="aa53e">
+        Merupakan khobarnya يَكُوْنُ yang berasal dari fi’il madli كَانَ . Karena merupakan khobarnya كَانَ maka I’rob kalimah tersebut yaitu nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “ iku
+         <sup> خ</sup>
+        حُجَّةً
+         dadi tondo/ tetenger (itu menjadi tanda)”
+
+    </string>
+    <string name="aa53g">
+        Merupakan jawab bagi penjelasan/ permasalahan yang ada pada kalimah sebelumnya. Huruf فَ dalam kalimah tersebut merupakan huruf sababiyah. Kalimah tersebut beri’rob rofa’ karena fi’il mudlori’ maka cara membacanya “
+         <sup> ج</sup>
+        فَيَزْدَادَ
+         mongko sebabe dadi tambah sopo اِنْسَان (maka sebab bertambahnya)”
+
+    </string>
+    <string name="aa53h">
+        Merupakan tamyiz maksudnya kalimah tersebut menjelaskan kalimah sebelumnya yang masih samar. Kalimah tersebut beri’rob nasob dengan alamat nasobnya yaitu fathah. Maka cara membacanya “
+         <sup> تم</sup>
+        عُقُوْبَةً.
+        apane siksane (adapun siksanya)”
+
+    </string>
+    <string name="aa53j">
+        Merupakan maf’ul mutlak maksdunya kalimah tersebut ada atau digunakan untuk menguatkan fi’il (susunan kalimah sebelumnya). Kalimah tersebut beri’rob jer karena masuknya amil jer berupa huruf بِ dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> مط</sup>
+        بِا للّهِ
+        kelawan Allah (dengan Allah)”
+
+    </string>
 
 
 <!--    54-->
-    <string name="aa51a"></string>
-    <string name="aa51b"></string>
-    <string name="aa51c"></string>
-    <string name="aa51d"></string>
-    <string name="aa51e"></string>
-    <string name="aa51f"></string>
-    <string name="aa51g"></string>
-    <string name="aa51h"></string>
-    <string name="aa51i"></string>
 
+    <string name="aa54a">
+        Kalimah tersebut bukan dzorof namun dalam memaknainya menggunakan kalimah “ingdalem”. Kalimah tersebut merupakan susunan jer majrur, dijerkan dengan huruf فِىْ dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> ظز</sup>
+        فِىْ مَنَاقِبِ الْعِلْمِ
+        ingdalem agunge ilmu (dalam agungnya ilmu)”
 
-<!--    55-->
+    </string>
+    <string name="aa54c">
+        Merupakan kalimah yang berbentuk jamak, maksdunya makna kalimah tersebut menujunkan makna banya (lebih dari tiga). Kalimah tersebut beri’rob jer karena mengikuti ma’thus ‘alaihnya, dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         وَ
+        <sub> ج</sub>
+        فَضَائِلِهِ
+        lan piro-piro utamane ilmu (dan manfaat-manfaatnya ilmu)”
 
-    <string name="aa51a"></string>
-    <string name="aa51b"></string>
-    <string name="aa51c"></string>
-    <string name="aa51d"></string>
-    <string name="aa51e"></string>
-    <string name="aa51f"></string>
-    <string name="aa51g"></string>
-    <string name="aa51h"></string>
-    <string name="aa51i"></string>
+    </string>
+    <string name="aa54d">
+        Merupakan fail ghoiru aql (yang tidak memiliki akal) dari kalimah sebelumya. Kalimah tersebut juga merupakan kalimah yang berbentuk jamak. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “ opo
+         <sup> ف</sup>
+        <sub> ج</sub>
+        ايَاتٌ
+        piro-piro ayat”
+
+    </string>
+    <string name="aa54f">
+        Merupakan shifat bagi kalimah sebelumnya, maksudnya kalimah tersebut memiliki makna yang menyifati kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ص</sup>
+        صَحِيْحَةٌ
+        kang shohih”
+
+    </string>
+    <string name="aa54g">
+        Merupakan shifat bagi kalimah sebelumnya, maksudnya kalimah tersebut memiliki makna yang menyifati kalimah sebelumnya. Kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ص</sup>
+        مَشْهُوْرَةٌ
+        kang masyhur (yang terkenal)”
+
+    </string>
+    <string name="aa54h">
+        Merupakan na’at yang menyifati kalimah sebelumnya, kalimah tersebut beri’rob jazem karena masuknya alama amil jazem berupa لَمْ  dengan alamat jazemnya yaitu sukun. Maka cara membacanya “
+         <sup> ن</sup>
+        لَمْ نَسْتَغِلْ
+        kang ora ketungkul sopo ingsun”
+
+    </string>
+    <string name="aa54i">
+        Merupakan maf’ul mutlak maksdunya kalimah tersebut ada atau digunakan untuk menguatkan fi’il (susunan kalimah sebelumnya). Kalimah tersebut beri’rob jer karena masuknya amil jer berupa huruf بِ dengan alamat jernya yaitu kasroh. Maka cara membacanya “
+         <sup> مط</sup>
+        بِذِكْرِ اللهِ
+        kelawan dzikir iling ing Allah (dengan berdzikir mengingat Allah)”
+
+    </string>
+    <string name="aa54k">
+        Merupakan fail bagi kalimah sebelumnya, kalimah tersebut beri’rob rofa’ dengan alamat rofa’nya yaitu dlomah. Maka cara membacanya “
+         <sup> ف</sup>
+        الْكِتَابُ
+        opo iku kitab”
+
+    </string>
+
 
 
 </resources>
